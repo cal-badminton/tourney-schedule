@@ -53,7 +53,7 @@ export default function InfoBox() {
           </AppBar>
           <br></br>
           <br></br>
-          <Box sx={{ p: 4 }}>
+          <Box sx={{ p: 4 }} style={{ background: "#f3f6fa" }}>
             <Typography>
               <strong>Announcements</strong> <br></br>
               Hi everyone! Tournament draws and match times are now out.
