@@ -10,7 +10,7 @@ function App() {
       <br></br>
       <br></br>
       <br></br>
-      <Box display="flex" justifyContent="center" sx={{ p: 4 }}>
+      <Box display="flex" justifyContent="center" sx={{ p: 2 }}>
         <Typography
           variant="h4"
           noWrap
