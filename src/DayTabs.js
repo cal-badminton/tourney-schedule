@@ -5,7 +5,7 @@ import Tab from "@mui/material/Tab";
 import Schedule from "./Schedule";
 import Box from "@mui/material/Box";
 
-var data = require("./Match-Schedule.json");
+var data = require("./matchSchedule.json");
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;

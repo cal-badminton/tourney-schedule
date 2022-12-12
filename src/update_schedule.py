@@ -95,7 +95,7 @@ def main():
 
     parsed_match_info = parse_tournament_matches(sys.argv[1])
 
-    with open("Match Schedule.json", "w", encoding='utf-8') as f:
+    with open("matchSchedule.json", "w", encoding='utf-8') as f:
         json.dump(parsed_match_info, f, ensure_ascii=False, indent=4)
 
 
