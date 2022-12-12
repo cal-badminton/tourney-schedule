@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tourney-schedule/static/css/main.a672e4f3.css",
-    "main.js": "/tourney-schedule/static/js/main.be2af9c5.js",
+    "main.js": "/tourney-schedule/static/js/main.0b926894.js",
     "static/js/787.7a75392c.chunk.js": "/tourney-schedule/static/js/787.7a75392c.chunk.js",
     "index.html": "/tourney-schedule/index.html",
     "main.a672e4f3.css.map": "/tourney-schedule/static/css/main.a672e4f3.css.map",
-    "main.be2af9c5.js.map": "/tourney-schedule/static/js/main.be2af9c5.js.map",
+    "main.0b926894.js.map": "/tourney-schedule/static/js/main.0b926894.js.map",
     "787.7a75392c.chunk.js.map": "/tourney-schedule/static/js/787.7a75392c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a672e4f3.css",
-    "static/js/main.be2af9c5.js"
+    "static/js/main.0b926894.js"
   ]
 }
