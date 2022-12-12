@@ -40,7 +40,7 @@ function ResponsiveAppBar(props) {
               whiteSpace: "normal",
             }}
           >
-            Cal Badminton
+            CAL BADMINTON
           </Typography>
           <Box sx={{ flexGrow: 1 }}>
             {pages.map((page) => (
