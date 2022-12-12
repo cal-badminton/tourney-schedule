@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Tournament Schedule
+You must have npm installed on your computer and then run `npm install` in the root directory.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the `src` folder, there is a file named `update_schedule.py`. Upload files `saturday.txt` and `sunday.txt` in the `by_time` folder ouputted by the match scheduler (https://github.com/cal-badminton/match_scheduler) into the `src` folder. On tournamentsoftware, go to the toolbar at the top, click `Match` and then download an excel spreadsheet for both days (clicking another `Match` button on the `Match` drag down menu).
 
-## Available Scripts
+After having all these files in the `src` folder, you run 
+```
+python3 update_schedule.py <file_name.xlsx>
+```
+This will output a file in the `src` folder named `Match-Schedule.json`. Once you have the json file created/updated. All you have to do is run
+```
+npm run deploy
+```
 
-In the project directory, you can run:
+The command above will fail if you do not have a remote connection to this repo named `origin`. Run the commands below if you have not set one up named origin.
+```
+git add remote origin https://github.com/cal-badminton/tourney-schedule.git
+```
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+After running `npm run deploy`, it should create a build and then try to publish to github pages. You are done when you see the words `Published`.
