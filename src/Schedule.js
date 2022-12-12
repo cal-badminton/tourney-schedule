@@ -41,7 +41,7 @@ export default function Schedule(props) {
         rows={rows}
         columns={columns}
         pageSize={100}
-        rowsPerPageOptions={[50]}
+        rowsPerPageOptions={[100]}
         disableSelectionOnClick
         autoHeight={true}
         components={{ Toolbar: GridToolbar }}
