@@ -1,4 +1,5 @@
 import ResponseAppBar from "./AppBar";
+import InfoBox from "./InfoBox";
 import DayTabs from "./DayTabs";
 import "./App.css";
 import { Box, Container, Typography } from "@mui/material";
@@ -28,6 +29,7 @@ function App() {
           Golden Bear LXVI Tournament Schedule
         </Typography>
       </Box>
+      <InfoBox></InfoBox>
       <DayTabs></DayTabs>
     </Container>
   );
