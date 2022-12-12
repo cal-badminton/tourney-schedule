@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import ResponseAppBar from "./AppBar";
+import DayTabs from "./DayTabs";
+import "./App.css";
+import { Box, Container, Typography } from "@mui/material";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+    <Container maxWidth="lg">
+      <ResponseAppBar></ResponseAppBar>
+      <br></br>
+      <br></br>
+      <br></br>
+      <Box display="flex" justifyContent="center" sx={{ p: 4 }}>
+        <Typography
+          variant="h4"
+          noWrap
+          component="a"
+          align="center"
+          sx={{
+            mr: 2,
+            fontWeight: "bold",
+            letterSpacing: "0rem",
+            color: "inherit",
+            textDecoration: "none",
+            whiteSpace: "normal",
+          }}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
+          UC Berkeley Golden Bear LXVI Tournament Schedule
+        </Typography>
+      </Box>
+      <DayTabs></DayTabs>
+    </Container>
   );
 }
 
