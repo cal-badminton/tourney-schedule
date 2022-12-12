@@ -13,12 +13,12 @@ export default function Schedule(props) {
     {
       field: "round",
       headerName: "Round",
-      width: 100,
+      width: 80,
     },
     {
       field: "players",
       headerName: "Players",
-      width: 400,
+      width: 500,
     },
     {
       field: "score",
