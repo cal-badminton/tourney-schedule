@@ -36,7 +36,7 @@ def parse_tournament_matches(file):
     xls = pd.ExcelFile(file)
     matches_data = {}
     for sheet_name in xls.sheet_names:
-        matches_data[sheet_names[sheet_name]] = xls.parse(sheet_name)
+        matches_data[sheet_names[sheet_name]] = xls.parse(sheet_name, skiprows=3)
 
     parsed_matches = {}
 
