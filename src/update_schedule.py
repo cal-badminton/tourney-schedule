@@ -47,11 +47,17 @@ def parse_tournament_matches(file):
             event = event_name_conversions[row["Event"]]
             if event not in parsed_matches_data:
                 parsed_matches_data[event] = {}
+            if "Winner" in row["Team 1"] or "Loser" in row["Team 1"]:
+                team_1_split = row["Team 1"].split("-")
+                row["Team 1"] = team_1_split[0]
+            if "Winner" in row["Team 2"] or "Loser" in row["Team 2"]:
+                team_2_split = row["Team 2"].split("-")
+                row["Team 2"] = team_2_split[0]
+
             parsed_matches_data[event][row["Nr"]] = [row["Round"],
                                                      row["Team 1"] + " vs. " + row["Team 2"],
                                                      row["Score"]]
-
-    # Adjust this different days
+    # Adjust this if different days
     new_matches_info = {"saturday": [], "sunday": []}
     for d in days:
         with open(d[0], "r") as f:
@@ -89,7 +95,7 @@ def main():
 
     parsed_match_info = parse_tournament_matches(sys.argv[1])
 
-    with open("Match-Schedule.json", "w", encoding='utf-8') as f:
+    with open("Match Schedule.json", "w", encoding='utf-8') as f:
         json.dump(parsed_match_info, f, ensure_ascii=False, indent=4)
 
 
