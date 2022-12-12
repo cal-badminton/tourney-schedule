@@ -25,7 +25,7 @@ function App() {
             whiteSpace: "normal",
           }}
         >
-          UC Berkeley Golden Bear LXVI Tournament Schedule
+          Golden Bear LXVI Tournament Schedule
         </Typography>
       </Box>
       <DayTabs></DayTabs>
