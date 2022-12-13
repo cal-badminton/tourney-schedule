@@ -28,7 +28,7 @@ export default function InfoBox() {
     <div>
       <center>
         <Button variant="outlined" onClick={handleClickOpen}>
-          Announcements & Rules
+          Announcements & Details
         </Button>
         <Dialog
           fullScreen
@@ -47,7 +47,7 @@ export default function InfoBox() {
                 <CloseIcon />
               </IconButton>
               <Typography sx={{ ml: 2, flex: 1 }} variant="h6" component="div">
-                Announcements & Rules
+                Announcements & Details
               </Typography>
             </Toolbar>
           </AppBar>
@@ -69,18 +69,21 @@ export default function InfoBox() {
               to everyone playing!
               <br></br>
               <br></br>
-              <a href="https://drive.google.com/drive/folders/1MC4UxGsaVdUwTQiWWWcO6OrzKOm6T8Nc?usp=sharing">
+              <a
+                href="https://drive.google.com/drive/folders/1MC4UxGsaVdUwTQiWWWcO6OrzKOm6T8Nc?usp=sharing"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Click here for the draws!
               </a>
               <br></br>
               <br></br>
-              <strong>Rules</strong> <br></br>
-              Dates: <br></br>
-              Saturday 9/3 (Singles & Mixed), 9AM-10PM <br></br>
-              Sunday 9/4 (Doubles), 9AM-6PM <br></br>
+              <strong>Dates</strong> <br></br>- Saturday 9/3 (Singles & Mixed),
+              9AM-10PM <br></br>- Sunday 9/4 (Doubles), 9AM-6PM <br></br>-
               Check-in will begin at 8:15AM on both days. <br></br>
               <br></br>
-              Events: <br></br>- Flights: A, B, C, D Singles, Doubles, Mixed
+              <strong>Events</strong> <br></br>- Flights: A, B, C, D Singles,
+              Doubles, Mixed
               <br></br>- Events may be combined depending on number of entries.
               <br></br>- Draws will be capped at the discretion of the
               tournament directors.<br></br>- Multiple partners are NOT allowed.
@@ -90,16 +93,16 @@ export default function InfoBox() {
               must be within two flights. In other words, keep all of your
               entries between 2 consecutive letters (AB, BC, or CD). <br></br>
               <br></br>
-              Entry Fees:<br></br>- $24 for the first event, $20 for each
-              additional event; maximum of 3 events per day. No more than 2
-              flights per event.
+              <strong>Entry Fees</strong> <br></br>- $24 for the first event,
+              $20 for each additional event; maximum of 3 events per day. No
+              more than 2 flights per event.
               <br></br>- Entry fees will be collected in CASH on the day of the
               tournament at the check-in desk. We will NOT be taking Venmo,
               Zelle, or other online payment options. There are ATMs nearby, but
               not directly next to the Pavilion; please plan accordingly.
               <br></br>
               <br></br>
-              Entry Deadline:<br></br>
+              <strong>Entry Deadline</strong> <br></br>
               Since we are reaching capacity sooner than we expected, the sign
               up deadline is now Sunday, August 14, 2022 at 11:59PM <br></br>-
               If you are withdrawing after this deadline please notify us at
@@ -108,15 +111,24 @@ export default function InfoBox() {
               flights; however, people will need to supply their own shuttles
               for all other flights.<br></br>
               <br></br>
-              Prizes:<br></br>- Trophies will be awarded to all 1st, 2nd, and
-              consolation place finishers. 1st and 2nd place in flight A will
-              also be awarded cash prizes.<br></br>
+              <strong>Prizes:</strong> <br></br>- Trophies will be awarded to
+              all 1st, 2nd, and consolation place finishers. 1st and 2nd place
+              in flight A will also be awarded cash prizes.<br></br>
               <br></br>
-              T-Shirts:<br></br>- We will be selling t-shirts at the tournament
-              for $17.<br></br>- The t-shirt design will be posted a few weeks
-              leading up to the tournament.<br></br>
+              <strong>T-Shirts</strong>
+              <br></br>- We will be selling t-shirts at the tournament for $17.
+              <br></br>- The t-shirt design will be posted a few weeks leading
+              up to the tournament.<br></br>
               <br></br>
-              <a href="http://bit.ly/1MskFkL">Parking:</a>
+              <strong>
+                <a
+                  href="http://bit.ly/1MskFkL"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Parking
+                </a>
+              </strong>
               <br></br>- Follow the link above for a map of all the parking lots
               surrounding the RSF. For reference, the RSF is located at the
               intersection of Bancroft Ave. and Dana St. <br></br>- On Saturday,
@@ -127,7 +139,7 @@ export default function InfoBox() {
               The earlier you get here, the better the space you will get!
               <br></br>
               <br></br>
-              Regulations: <br></br>
+              <strong>Regulations</strong> <br></br>
               1. The tournament will be conducted in accordance with USAB
               regulations; IN THE EVENT OF AN INCONSISTENCY, THE DECISIONS OF
               THE TOURNAMENT DIRECTORS ARE FINAL. <br></br>
@@ -169,10 +181,15 @@ export default function InfoBox() {
               <br></br>
               Golden Bear Tournament Co-directors: Bianca Tam, David Chen, Eric
               Chang, and John Le<br></br>
-              <br></br>
-              <a href="https://www.facebook.com/akbadmintontennis">
-                Sponsor & Partner: AK Badminton & Tennis
-              </a>
+              <strong>
+                <a
+                  href="https://www.facebook.com/akbadmintontennis"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Sponsor & Partner: AK Badminton & Tennis
+                </a>
+              </strong>
             </Typography>
           </Box>
         </Dialog>
