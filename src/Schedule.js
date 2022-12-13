@@ -9,7 +9,7 @@ export default function Schedule(props) {
       headerName: "Match Number",
       width: 120,
     },
-    { field: "match", headerName: "Match Time", width: 200 },
+    { field: "match", headerName: "Match Time", width: 170 },
     {
       field: "round",
       headerName: "Round",
@@ -18,12 +18,12 @@ export default function Schedule(props) {
     {
       field: "players",
       headerName: "Players",
-      width: 500,
+      width: 580,
     },
     {
       field: "score",
       headerName: "Score",
-      width: 150,
+      width: 145,
     },
   ];
 
