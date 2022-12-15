@@ -10,7 +10,7 @@ After having all these files in the `src` folder, you run
 python3 update_schedule.py <file_name.xlsx>
 ```
 
-This will output a file in the `src` folder named `matchSchedule.json`. Once you have the json file created/updated. During the tournament we will also be posting and updating the match times we are calling with this code snippet
+This will output a file in the `src` folder named `matchSchedule.json`. During the tournament we will also be posting and updating the match times we are calling with this code snippet
 
 ```
 <Alert severity="info" sx={{ p: 2 }}>
