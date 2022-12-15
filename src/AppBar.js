@@ -23,7 +23,7 @@ function ResponsiveAppBar(props) {
     <AppBar position="fixed" style={{ background: "#003262" }}>
       <Container maxWidth="xl">
         <Toolbar>
-          <IconButton href="/">
+          <IconButton href="/tourney-schedule">
             <Avatar src={logo} />
           </IconButton>
           <Typography
