@@ -33,4 +33,4 @@ The command above will fail if you do not have a remote connection to this repo 
 git add remote origin https://github.com/cal-badminton/tourney-schedule.git
 ```
 
-After running `npm run deploy`, it should create a build and then try to publish to github pages. You are done when you see the words `Published`. Updates may take a couple minutes before appearing on the website. You do not have to commit and push any changes to deploy it to Github Pages, but as always it is a good idea to save your changes every now and then.
+After running `npm run deploy`, it should create a build and then try to publish to github pages. You are done when you see the words `Published`. Updates may take a couple minutes before appearing on the website. You do not have to commit and push any changes to deploy it to github pages, but as always it is a good idea to save your changes every now and then.
