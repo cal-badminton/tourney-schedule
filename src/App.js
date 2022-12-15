@@ -1,8 +1,9 @@
 import ResponseAppBar from "./AppBar";
 import InfoBox from "./InfoBox";
 import DayTabs from "./DayTabs";
+import LayoutModal from "./LayoutModal";
 import "./App.css";
-import { Box, Container, Typography } from "@mui/material";
+import { Alert, Box, Container, Typography } from "@mui/material";
 
 function App() {
   return (
@@ -30,6 +31,11 @@ function App() {
         </Typography>
       </Box>
       <InfoBox></InfoBox>
+      <LayoutModal></LayoutModal>
+      <Alert severity="info" sx={{ p: 2 }}>
+        The tournament is now over, thank you to everyone who played! We hope to
+        see everyone at Polar Bear LXVII!
+      </Alert>
       <DayTabs></DayTabs>
     </Container>
   );

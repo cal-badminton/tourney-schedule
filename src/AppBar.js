@@ -30,7 +30,7 @@ function ResponsiveAppBar(props) {
             variant="h6"
             noWrap
             component="a"
-            href="/"
+            href="/tourney-schedule"
             sx={{
               mr: 2,
               fontWeight: "bold",
