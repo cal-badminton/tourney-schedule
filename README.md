@@ -1,4 +1,4 @@
-# Tournament Schedule
+# Tourney Schedule
 
 You must have npm installed on your computer and then run `npm install` in the root directory.
 

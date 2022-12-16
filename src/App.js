@@ -27,7 +27,7 @@ function App() {
             whiteSpace: "normal",
           }}
         >
-          Golden Bear LXVI Tournament Schedule
+          Golden Bear LXVI Tourney Schedule
         </Typography>
       </Box>
       <InfoBox></InfoBox>
