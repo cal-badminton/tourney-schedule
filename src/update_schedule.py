@@ -80,7 +80,7 @@ def parse_tournament_matches(file):
                                   match_data[0].strip(),
                                   match_data[1].strip()]
                 if match_data[2] is None or pd.isnull(match_data[2]):
-                    new_match_data.append("NOT STARTED")
+                    new_match_data.append("Not Started")
                 else:
                     new_match_data.append(match_data[2])
                 new_matches_info[day].append(new_match_data)
