@@ -23,7 +23,7 @@ export default function Schedule(props) {
     {
       field: "score",
       headerName: "Score",
-      width: 145,
+      width: 370,
     },
   ];
 

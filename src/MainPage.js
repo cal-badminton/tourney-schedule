@@ -5,7 +5,7 @@ import { Alert, Box, Container, Typography } from "@mui/material";
 
 export default function MainPage() {
   return (
-    <Container maxWidth="lg">
+    <Container maxWidth="xl">
       <ResponseAppBar></ResponseAppBar>
       <br></br>
       <br></br>

@@ -71,11 +71,11 @@ def parse_tournament_matches(file):
                 row["Team 2"] = team_2_split[0]
             if row["Score"] is None or pd.isnull(row["Score"]):
                 if style_row["Team 1"].style.bold:
-                    row["Score"] = "No score, " + row["Team 1"] + " won"
+                    row["Score"] = "No Score, Winner - " + row["Team 1"]
                 elif style_row["Team 2"].style.bold:
-                    row["Score"] = "No score, " + row["Team 2"] + " won"
+                    row["Score"] = "No Score, Winner - " + row["Team 2"]
                 else:
-                    row["Score"] = "Match not started"
+                    row["Score"] = "Match Not Started"
                     
             parsed_matches_data[event][row["Nr"]] = [row["Round"],
                                                      row["Team 1"] + " vs. " + row["Team 2"],
