@@ -65,7 +65,7 @@ export default function InfoBox(props) {
                 </Typography>
               </Toolbar>
             </AppBar>
-            <br>{"// These line breaks are so hacky but native HTML sucks"}</br>
+            <br></br>
             <br></br>
             <br></br>
             <br></br>
