@@ -20,7 +20,7 @@ This will output a file in the `src` folder named `matchSchedule.json`. During t
 </Alert>
 ```
 
-in the `App.js` file. Be sure to update this periodically as stated in the text above.
+in the `MainPage.js` file. Be sure to update this periodically as stated in the text above.
 After you do all of this, run
 
 ```
