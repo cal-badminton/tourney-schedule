@@ -1,6 +1,9 @@
 import sys
 
+import os
 import pandas as pd
+import openpyxl as ox
+import styleframe as sf
 import json
 import re
 
@@ -33,17 +36,30 @@ event_name_conversions = {
 
 
 def parse_tournament_matches(file):
-    xls = pd.ExcelFile(file)
     matches_data = {}
-    for sheet_name in xls.sheet_names:
-        matches_data[sheet_names[sheet_name]] = xls.parse(sheet_name, skiprows=3)
 
+    wb = ox.load_workbook(file)
+    for ws in wb.worksheets:
+        ws.delete_rows(1, 3)
+        wb.save("temp.xlsx")
+
+    # Override the data with styleframes
+    for sheet_name in sheet_names:
+        actual_name = sheet_names[sheet_name]
+        matches_data[actual_name] = sf.read_excel("temp.xlsx", sheet_name=sheet_name, read_style=True, use_openpyxl_styles=False)
+    
+    os.remove("temp.xlsx")
+    
     parsed_matches = {}
 
     for day in matches_data:
         parsed_matches[day] = {}
         parsed_matches_data = parsed_matches[day]
-        for _, row in matches_data[day].iterrows():
+        for i in range(len(matches_data[day])):
+            style_row = matches_data[day].iloc[i]
+            row = matches_data[day].iloc[i].copy()
+            for j in range(len(row)):
+                row[j] = row[j].value
             event = event_name_conversions[row["Event"]]
             if event not in parsed_matches_data:
                 parsed_matches_data[event] = {}
@@ -53,7 +69,14 @@ def parse_tournament_matches(file):
             if "Winner" in row["Team 2"] or "Loser" in row["Team 2"]:
                 team_2_split = row["Team 2"].split("-")
                 row["Team 2"] = team_2_split[0]
-
+            if row["Score"] is None or pd.isnull(row["Score"]):
+                if style_row["Team 1"].style.bold:
+                    row["Score"] = "No score, " + row["Team 1"] + " won"
+                elif style_row["Team 2"].style.bold:
+                    row["Score"] = "No score, " + row["Team 2"] + " won"
+                else:
+                    row["Score"] = "Match not started"
+                    
             parsed_matches_data[event][row["Nr"]] = [row["Round"],
                                                      row["Team 1"] + " vs. " + row["Team 2"],
                                                      row["Score"]]
@@ -78,11 +101,8 @@ def parse_tournament_matches(file):
                 new_match_data = [match_info[0].strip(),
                                   match_info[1].strip(),
                                   match_data[0].strip(),
-                                  match_data[1].strip()]
-                if match_data[2] is None or pd.isnull(match_data[2]):
-                    new_match_data.append("Not Started")
-                else:
-                    new_match_data.append(match_data[2])
+                                  match_data[1].strip(),
+                                  match_data[2]]
                 new_matches_info[day].append(new_match_data)
 
     return new_matches_info
