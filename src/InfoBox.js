@@ -6,7 +6,6 @@ import Toolbar from "@mui/material/Toolbar";
 import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
 import CloseIcon from "@mui/icons-material/Close";
-import courtLayout from "./courtLayout.png";
 import Slide from "@mui/material/Slide";
 
 const Transition = React.forwardRef(function Transition(props, ref) {
@@ -32,40 +31,12 @@ export default function InfoBox(props) {
           <Button
             variant="outlined"
             sx={{ p: 1, m: 1 }}
-            onClick={handleClickOpen}
+            href="#/courts"
+            target="_blank"
           >
             Tourney Court Layout
           </Button>
         </center>
-        <Dialog
-          open={open}
-          onClose={handleClose}
-          TransitionComponent={Transition}
-        >
-          <Toolbar style={{ background: "#003262" }}>
-            <IconButton
-              sx={{
-                color: "#FFFFFF",
-              }}
-              edge="start"
-              onClick={handleClose}
-              aria-label="close"
-            >
-              <CloseIcon />
-            </IconButton>
-            <Typography
-              sx={{ m: 0, p: 2, fontWeight: "bold" }}
-              variant="h6"
-              component="div"
-              color="#FFFFFF"
-            >
-              Tourney Court Layout
-            </Typography>
-          </Toolbar>
-          <center>
-            <img src={courtLayout} alt="" width={550} height={1000}></img>
-          </center>
-        </Dialog>
       </div>
     );
   }

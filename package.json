@@ -1,7 +1,7 @@
 {
   "name": "tourney-schedule",
   "version": "0.1.0",
-  "homepage": "https://cal-badminton.github.io/tourney-schedule",
+  "homepage": "https://cal-badminton.github.io/tourney-schedule/#",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -19,6 +19,7 @@
     "mui": "^0.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.5.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
