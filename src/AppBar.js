@@ -18,7 +18,7 @@ const pages = [
     url: "https://www.facebook.com/groups/calbadminton",
   },
 ];
-function ResponsiveAppBar(props) {
+function ResponsiveAppBar() {
   return (
     <AppBar position="fixed" style={{ background: "#003262" }}>
       <Container maxWidth="xl">
