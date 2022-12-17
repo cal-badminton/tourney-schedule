@@ -30,8 +30,8 @@ function App() {
           Golden Bear LXVI Tourney Schedule
         </Typography>
       </Box>
-      <InfoBox></InfoBox>
-      <LayoutModal></LayoutModal>
+      <InfoBox layout={false}></InfoBox>
+      <InfoBox layout={true}></InfoBox>
       <Alert severity="info" sx={{ p: 2 }}>
         The tournament is now over, thank you to everyone who played! We hope to
         see everyone at Polar Bear LXVII!

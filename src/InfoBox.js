@@ -7,13 +7,15 @@ import Toolbar from "@mui/material/Toolbar";
 import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
 import CloseIcon from "@mui/icons-material/Close";
+import courtLayout from "./courtLayout.png";
 import Slide from "@mui/material/Slide";
 
 const Transition = React.forwardRef(function Transition(props, ref) {
   return <Slide direction="up" ref={ref} {...props} />;
 });
 
-export default function InfoBox() {
+export default function InfoBox(props) {
+  const layout = props.layout;
   const [open, setOpen] = React.useState(false);
 
   const handleClickOpen = () => {
@@ -24,6 +26,58 @@ export default function InfoBox() {
     setOpen(false);
   };
 
+  if (layout) {
+    return (
+      <div>
+        <center>
+          <Button
+            variant="outlined"
+            sx={{ p: 1, m: 1 }}
+            onClick={handleClickOpen}
+          >
+            Tourney Court Layout
+          </Button>
+          <Dialog
+            fullScreen
+            open={open}
+            onClose={handleClose}
+            TransitionComponent={Transition}
+          >
+            <AppBar
+              sx={{ position: "fixed" }}
+              style={{ background: "#003262" }}
+            >
+              <Toolbar>
+                <IconButton
+                  edge="start"
+                  color="inherit"
+                  onClick={handleClose}
+                  aria-label="close"
+                >
+                  <CloseIcon />
+                </IconButton>
+                <Typography
+                  sx={{ ml: 2, flex: 1 }}
+                  variant="h6"
+                  component="div"
+                >
+                  Tourney Court Layout
+                </Typography>
+              </Toolbar>
+            </AppBar>
+            <br>{"// These line breaks are so hacky but native HTML sucks"}</br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <center>
+              <img src={courtLayout} alt="" width={700} height={1000}></img>
+            </center>
+            <br></br>
+          </Dialog>
+        </center>
+      </div>
+    );
+  }
   return (
     <div>
       <center>
