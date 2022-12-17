@@ -38,7 +38,6 @@ export default function InfoBox(props) {
           </Button>
         </center>
         <Dialog
-          fullScreen
           open={open}
           onClose={handleClose}
           TransitionComponent={Transition}
@@ -64,7 +63,7 @@ export default function InfoBox(props) {
             </Typography>
           </Toolbar>
           <center>
-            <img src={courtLayout} alt="" width={700} height={1000}></img>
+            <img src={courtLayout} alt="" width={550} height={1000}></img>
           </center>
         </Dialog>
       </div>
@@ -78,7 +77,6 @@ export default function InfoBox(props) {
         </Button>
       </center>
       <Dialog
-        fullScreen
         open={open}
         onClose={handleClose}
         TransitionComponent={Transition}
