@@ -1,7 +1,6 @@
 import ResponseAppBar from "./AppBar";
 import InfoBox from "./InfoBox";
 import DayTabs from "./DayTabs";
-import LayoutModal from "./LayoutModal";
 import "./App.css";
 import { Alert, Box, Container, Typography } from "@mui/material";
 
