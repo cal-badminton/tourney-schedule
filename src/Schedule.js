@@ -23,7 +23,12 @@ export default function Schedule(props) {
     {
       field: "score",
       headerName: "Score",
-      width: 370,
+      width: 140,
+    },
+    {
+      field: "winner",
+      headerName: "Winner",
+      width: 230,
     },
   ];
 
@@ -33,6 +38,7 @@ export default function Schedule(props) {
     round: d[2],
     players: d[3],
     score: d[4],
+    winner: d[5],
   }));
 
   return (
