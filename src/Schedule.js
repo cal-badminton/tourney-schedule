@@ -28,7 +28,7 @@ export default function Schedule(props) {
     {
       field: "winner",
       headerName: "Winner",
-      width: 225,
+      width: 230,
     },
   ];
 
