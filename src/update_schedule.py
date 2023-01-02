@@ -69,17 +69,27 @@ def parse_tournament_matches(file):
             if "Winner" in row["Team 2"] or "Loser" in row["Team 2"]:
                 team_2_split = row["Team 2"].split("-")
                 row["Team 2"] = team_2_split[0]
+            winner = ""
             if row["Score"] is None or pd.isnull(row["Score"]):
                 if style_row["Team 1"].style.bold:
-                    row["Score"] = "No Score, Winner - " + row["Team 1"]
+                    row["Score"] = "No Score"
+                    winner = row["Team 1"]
                 elif style_row["Team 2"].style.bold:
-                    row["Score"] = "No Score, Winner - " + row["Team 2"]
+                    row["Score"] = "No Score"
+                    winner = row["Team 2"]
                 else:
                     row["Score"] = "Match Not Started"
+            else:
+                if style_row["Team 1"].style.bold:
+                    winner = row["Team 1"]
+                elif style_row["Team 2"].style.bold:
+                    winner = row["Team 2"]
+
                     
             parsed_matches_data[event][row["Nr"]] = [row["Round"],
                                                      row["Team 1"] + " vs. " + row["Team 2"],
-                                                     row["Score"]]
+                                                     row["Score"],
+                                                     winner]
     # Adjust this if different days
     new_matches_info = {"saturday": [], "sunday": []}
     for d in days:
@@ -102,7 +112,8 @@ def parse_tournament_matches(file):
                                   match_info[1].strip(),
                                   match_data[0].strip(),
                                   match_data[1].strip(),
-                                  match_data[2]]
+                                  match_data[2],
+                                  match_data[3].strip()]
                 new_matches_info[day].append(new_match_data)
 
     return new_matches_info
