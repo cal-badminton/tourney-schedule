@@ -85,7 +85,6 @@ def parse_tournament_matches(file):
                 elif style_row["Team 2"].style.bold:
                     winner = row["Team 2"]
 
-                    
             parsed_matches_data[event][row["Nr"]] = [row["Round"],
                                                      row["Team 1"] + " vs. " + row["Team 2"],
                                                      row["Score"],
