@@ -9,13 +9,13 @@ import Container from "@mui/material/Container";
 import logo from "./logo.png";
 
 const pages = [
-  { name: "WEBSITE", url: "https://badminton.berkeley.edu/" },
-  { name: "SLACK", url: "https://cal-badminton.slack.com/signup" },
-  { name: "INSTAGRAM", url: "https://www.instagram.com/cal_badminton/" },
-  { name: "FACEBOOK PAGE", url: "https://www.facebook.com/calbadminton1" },
   {
-    name: "FACEBOOK GROUP",
-    url: "https://www.facebook.com/groups/calbadminton",
+    name: "TOURNAMENT SOFTWARE",
+    url: "https://www.tournamentsoftware.com/tournament/3B546A1C-E456-4407-9F13-1349BAC4C23C",
+  },
+  {
+    name: "FACEBOOK EVENT PAGE",
+    url: "https://www.facebook.com/events/597954545024360/?active_tab=discussion",
   },
 ];
 function ResponsiveAppBar() {
