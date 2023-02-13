@@ -75,18 +75,6 @@ export default function InfoBox(props) {
         <Box sx={{ p: 3 }} style={{ background: "#f3f6fa" }}>
           <Typography>
             <strong>Announcements</strong> <br></br>
-            Hi everyone! Tournament draws and match times are now out. Check-in
-            times on both days now start at 8:15AM rather than 8:30AM. Please
-            get your match number from the draw and find its corresponding time
-            in the Match Times folder. Plan on arriving at least 1 hour before
-            your match in case your match is called early. We have a right to
-            default your match if you are not present within 5 minutes of us
-            calling your match. Do make sure that you are actually apart of this
-            tournament, some people are still unaware that their entries were
-            cut and we do not want people wasting a commute to find out they
-            can't play. Lastly, good luck to everyone playing!
-            <br></br>
-            <br></br>
             <a
               href="https://drive.google.com/drive/folders/1MC4UxGsaVdUwTQiWWWcO6OrzKOm6T8Nc?usp=sharing"
               target="_blank"
@@ -96,23 +84,23 @@ export default function InfoBox(props) {
             </a>
             <br></br>
             <br></br>
-            <strong>Dates</strong> <br></br>- Saturday 9/3 (Singles & Mixed),
-            9AM-10PM <br></br>- Sunday 9/4 (Doubles), 9AM-6PM <br></br>-
-            Check-in will begin at 8:15AM on both days. <br></br>
+            <strong>Dates</strong> <br></br>- Saturday 2/18 (Singles & Mixed),
+            8AM-10PM <br></br>- Sunday 2/19 (Doubles), 8AM-6PM <br></br>-
+            Check-in will begin at 7:30AM on both days. <br></br>
             <br></br>
             <strong>Events</strong> <br></br>- Flights: A, B, C, D Singles,
             Doubles, Mixed
             <br></br>- Events may be combined depending on number of entries.
             <br></br>- Draws will be capped at the discretion of the tournament
             directors.<br></br>- Multiple partners are NOT allowed.
-            <br></br>- Players can play a maximum of 3 events within 2
+            <br></br>- Players can play a maximum of 2 events within 2
             consecutive flights (A, B, C, D) per day. For instance, this means
             that one cannot sign up for BMS, CMD, and DMD. All of your entries
             must be within two flights. In other words, keep all of your entries
             between 2 consecutive letters (AB, BC, or CD). <br></br>
             <br></br>
-            <strong>Entry Fees</strong> <br></br>- $24 for the first event, $20
-            for each additional event; maximum of 3 events per day. No more than
+            <strong>Entry Fees</strong> <br></br>- $24 for the first event, $22
+            for each additional event; maximum of 2 events per day. No more than
             2 flights per event.
             <br></br>- Entry fees will be collected in CASH on the day of the
             tournament at the check-in desk. We will NOT be taking Venmo, Zelle,
@@ -121,9 +109,7 @@ export default function InfoBox(props) {
             <br></br>
             <br></br>
             <strong>Entry Deadline</strong> <br></br>
-            Since we are reaching capacity sooner than we expected, the sign up
-            deadline is now Sunday, August 14, 2022 at 11:59PM <br></br>- If you
-            are withdrawing after this deadline please notify us at
+            - If you are withdrawing after the deadline please notify us at
             calbadminton@gmail.com <br></br>
             Birds: <br></br>- Unlimited shuttles will be provided for A flights;
             however, people will need to supply their own shuttles for all other
@@ -191,8 +177,10 @@ export default function InfoBox(props) {
             questions or concerns! Make sure you guys invite all your friends
             and we look forward to seeing you all!<br></br>
             <br></br>
-            Golden Bear Tournament Co-directors: Bianca Tam, David Chen, Eric
-            Chang, and John Le<br></br>
+            Polar Bear Tournament Co-directors: Eric Chang, John Le, Charles Liu, and Sophia Siopack<br></br>
+            <br></br>
+            Sponsor & Partner:
+            AK Badminton & Tennis: https://www.facebook.com/akbadmintontennis<br></br>
             <strong>
               <a
                 href="https://www.facebook.com/akbadmintontennis"

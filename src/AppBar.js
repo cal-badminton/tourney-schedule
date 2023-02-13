@@ -11,11 +11,11 @@ import logo from "./logo.png";
 const pages = [
   {
     name: "TOURNAMENT SOFTWARE",
-    url: "https://www.tournamentsoftware.com/tournament/3B546A1C-E456-4407-9F13-1349BAC4C23C",
+    url: "https://www.tournamentsoftware.com/sport/tournament?id=553C475D-C82B-40B9-98AE-E19DEB0B5355",
   },
   {
     name: "FACEBOOK EVENT PAGE",
-    url: "https://www.facebook.com/events/597954545024360/?active_tab=discussion",
+    url: "https://www.facebook.com/events/581617123810195",
   },
 ];
 function ResponsiveAppBar() {

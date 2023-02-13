@@ -25,14 +25,13 @@ export default function MainPage() {
             whiteSpace: "normal",
           }}
         >
-          Golden Bear LXVI Tourney Schedule
+          Polar Bear LXVII Tourney Schedule
         </Typography>
       </Box>
       <InfoBox layout={false}></InfoBox>
       <InfoBox layout={true}></InfoBox>
       <Alert severity="info" sx={{ p: 2 }}>
-        The tournament is now over, thank you to everyone who played! We hope to
-        see everyone at Polar Bear LXVII!
+        Draws and Match times are now published! Please make sure you review your match times before coming to the tournament. This page is periodically updated, so do not use this page to check whether your matches are on time.
       </Alert>
       <DayTabs></DayTabs>
     </Container>

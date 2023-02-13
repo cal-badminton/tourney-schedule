@@ -10,7 +10,7 @@ import re
 # Update this if more days
 days = [("saturday.txt", "saturday"), ("sunday.txt", "sunday")]
 
-sheet_names = {"Saturday 03 Sep 2022": "saturday", "Sunday 04 Sep 2022": "sunday"}
+sheet_names = {"Saturday 18 Feb 2023": "saturday", "Sunday 19 Feb 2023": "sunday"}
 
 # Update this if different events
 event_name_conversions = {
@@ -19,8 +19,7 @@ event_name_conversions = {
     "MS C": "CMS",
     "MS D": "DMS",
     "WS A/B": "ABWS",
-    "WS C": "CWS",
-    "WS D": "DWS",
+    "WS C/D": "CDWS",
     "MD A": "AMD",
     "MD B": "BMD",
     "MD C": "CMD",
