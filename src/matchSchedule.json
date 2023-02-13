@@ -642,14 +642,6 @@
         ],
         [
             "11:00 AM - 11:30 AM",
-            "BXD4",
-            "R16",
-            "Gumaro Diaz+Emily Yu vs. Alex Law+Agnes Wong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "11:00 AM - 11:30 AM",
             "BXD7",
             "R16",
             "Martin Nguyen+Evelyn Tan vs. Krishnaraj Singaram+Shriya Sarraf",
@@ -673,7 +665,7 @@
             ""
         ],
         [
-            "11:30 AM - 12:00 noon",
+            "11:00 AM - 11:30 AM",
             "CDWS5",
             "R16",
             "Amanda Trinh vs. Helina Li",
@@ -769,7 +761,7 @@
             ""
         ],
         [
-            "12:00 noon - 12:30 PM",
+            "11:30 AM - 12:00 noon",
             "BMS19",
             "R16",
             "Wyatt Fong[3/4] vs. S. Lu or B. Chiu",
@@ -865,7 +857,7 @@
             ""
         ],
         [
-            "12:30 PM - 01:00 PM",
+            "12:00 noon - 12:30 PM",
             "DMS55",
             "R16",
             "Winner #45  vs. K. Yu or T. Osa",
@@ -961,7 +953,7 @@
             ""
         ],
         [
-            "01:00 PM - 01:30 PM",
+            "12:30 PM - 01:00 PM",
             "AMS3",
             "R16",
             "Jun Jie Lai[3/4] vs. Patrick Chi",
@@ -989,6 +981,14 @@
             "AMS6",
             "R16",
             "Marcus Zhu vs. Michael F Lin[3/4]",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "01:00 PM - 01:30 PM",
+            "AMS7",
+            "R16",
+            "Spencer Edward Brownfield vs. Cuong Ta",
             "Match Not Started",
             ""
         ],
@@ -1058,17 +1058,25 @@
         ],
         [
             "01:30 PM - 02:00 PM",
-            "AMS7",
+            "AMS8",
             "R16",
-            "Spencer Edward Brownfield vs. Cuong Ta",
+            "Domenick Wuu vs. Neo Vasudeva[2]",
             "Match Not Started",
             ""
         ],
         [
             "01:30 PM - 02:00 PM",
-            "AMS8",
+            "BXD3",
             "R16",
-            "Domenick Wuu vs. Neo Vasudeva[2]",
+            "Winston Tang+Ashley Huang[3/4] vs. Brandon Lee+Savanna Lee",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "01:30 PM - 02:00 PM",
+            "BXD4",
+            "R16",
+            "Gumaro Diaz+Emily Yu vs. Alex Law+Agnes Wong",
             "Match Not Started",
             ""
         ],
@@ -1145,7 +1153,7 @@
             ""
         ],
         [
-            "01:30 PM - 01:45 PM",
+            "01:45 PM - 02:00 PM",
             "DMS94",
             "C-R32",
             "Winner #78 vs. If Loser #47",
@@ -1186,6 +1194,14 @@
         ],
         [
             "01:45 PM - 02:15 PM",
+            "AXD11",
+            "QF",
+            "S. Vuong+B. Tam or J. Serrano+S. Ling vs. Cuong Ta+Isabelle Rusli[3/4]",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "01:45 PM - 02:15 PM",
             "BXD9",
             "QF",
             "Sam Vuong+Belinda Tam[1] vs. E. Chin+K. Song or T. Lau+S. Shangguan",
@@ -1193,15 +1209,7 @@
             ""
         ],
         [
-            "01:45 PM - 02:15 PM",
-            "BXD10",
-            "QF",
-            "W. Tang+A. Huang or B. Lee+S. Lee vs. G. Diaz+E. Yu or A. Law+A. Wong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "01:45 PM - 02:15 PM",
+            "02:00 PM - 02:30 PM",
             "BXD12",
             "QF",
             "M. Nguyen+E. Tan or K. Singaram+S. Sarraf vs. Josh Serrano+Steffi Ling[2]",
@@ -1209,18 +1217,10 @@
             ""
         ],
         [
-            "01:45 PM - 02:15 PM",
+            "02:00 PM - 02:30 PM",
             "CDWS10",
             "QF",
             "Y. Xiao or N. Sharma vs. S. A Chun or S. Pandey",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "02:00 PM - 02:30 PM",
-            "AXD11",
-            "QF",
-            "S. Vuong+B. Tam or J. Serrano+S. Ling vs. Cuong Ta+Isabelle Rusli[3/4]",
             "Match Not Started",
             ""
         ],
@@ -1249,7 +1249,7 @@
             ""
         ],
         [
-            "02:15 PM - 02:45 PM",
+            "02:00 PM - 02:30 PM",
             "CMS27",
             "QF",
             "Winner #21  vs. Winner #22",
@@ -1298,17 +1298,17 @@
         ],
         [
             "02:15 PM - 02:45 PM",
-            "BMS27",
+            "DMS57",
             "QF",
-            "Winner #21  vs. Winner #22",
+            "Winner #49  vs. Winner #50",
             "Match Not Started",
             ""
         ],
         [
-            "02:15 PM - 02:45 PM",
-            "DMS57",
+            "02:30 PM - 03:00 PM",
+            "BMS27",
             "QF",
-            "Winner #49  vs. Winner #50",
+            "Winner #21  vs. Winner #22",
             "Match Not Started",
             ""
         ],
@@ -1345,7 +1345,7 @@
             ""
         ],
         [
-            "02:45 PM - 03:15 PM",
+            "02:30 PM - 03:00 PM",
             "CXD25",
             "QF",
             "Winner #17  vs. Winner #18",
@@ -1394,22 +1394,6 @@
         ],
         [
             "02:45 PM - 03:15 PM",
-            "DXD25",
-            "QF",
-            "Winner #17  vs. Winner #18",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "02:45 PM - 03:15 PM",
-            "DXD26",
-            "QF",
-            "Winner #19  vs. Winner #20",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "03:00 PM - 03:30 PM",
             "AXD12",
             "QF",
             "Gumaro Diaz+Emily Yu vs. Ray Ngan+Xin Huang[2]",
@@ -1421,6 +1405,22 @@
             "AMS9",
             "QF",
             "K. Chong or R. Kim Kuzma vs. J. Lee or B. Chiu",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "03:00 PM - 03:30 PM",
+            "DXD25",
+            "QF",
+            "Winner #17  vs. Winner #18",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "03:00 PM - 03:30 PM",
+            "DXD26",
+            "QF",
+            "Winner #19  vs. Winner #20",
             "Match Not Started",
             ""
         ],
@@ -1441,6 +1441,14 @@
             ""
         ],
         [
+            "03:00 PM - 03:30 PM",
+            "BXD10",
+            "QF",
+            "W. Tang+A. Huang or B. Lee+S. Lee vs. G. Diaz+E. Yu or A. Law+A. Wong",
+            "Match Not Started",
+            ""
+        ],
+        [
             "03:15 PM - 03:45 PM",
             "AMS10",
             "QF",
@@ -1453,6 +1461,14 @@
             "AMS11",
             "QF",
             "C. Bouriez or A. Trinh vs. M. Zhu or M. F Lin",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "03:15 PM - 03:45 PM",
+            "AMS12",
+            "QF",
+            "S. Edward Brownfield or C. Ta vs. D. Wuu or N. Vasudeva",
             "Match Not Started",
             ""
         ],
@@ -1481,7 +1497,7 @@
             ""
         ],
         [
-            "03:15 PM - 03:30 PM",
+            "03:30 PM - 03:45 PM",
             "CMS35",
             "C-R32",
             "Loser #7  vs. Loser #8",
@@ -1489,7 +1505,7 @@
             ""
         ],
         [
-            "03:15 PM - 03:30 PM",
+            "03:30 PM - 03:45 PM",
             "CMS36",
             "C-R32",
             "Loser #9  vs. Loser #10",
@@ -1497,18 +1513,10 @@
             ""
         ],
         [
-            "03:15 PM - 03:30 PM",
+            "03:30 PM - 03:45 PM",
             "CMS37",
             "C-R32",
             "Loser #11  vs. Loser #12",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "03:30 PM - 04:00 PM",
-            "AMS12",
-            "QF",
-            "S. Edward Brownfield or C. Ta vs. D. Wuu or N. Vasudeva",
             "Match Not Started",
             ""
         ],
@@ -1553,7 +1561,7 @@
             ""
         ],
         [
-            "03:30 PM - 03:45 PM",
+            "03:45 PM - 04:00 PM",
             "BMS42",
             "C-R16",
             "Winner #34 vs. If Loser #19",
@@ -1561,7 +1569,7 @@
             ""
         ],
         [
-            "03:30 PM - 03:45 PM",
+            "03:45 PM - 04:00 PM",
             "BMS43",
             "C-R16",
             "Winner #35 vs. If Loser #20",
@@ -1569,7 +1577,7 @@
             ""
         ],
         [
-            "03:30 PM - 03:45 PM",
+            "03:45 PM - 04:00 PM",
             "BMS44",
             "C-R16",
             "Winner #36 vs. If Loser #21",
@@ -1649,7 +1657,7 @@
             ""
         ],
         [
-            "03:45 PM - 04:00 PM",
+            "04:00 PM - 04:15 PM",
             "DMS102",
             "C-R16",
             "Winner #92  vs. Winner #93",
@@ -1657,7 +1665,7 @@
             ""
         ],
         [
-            "03:45 PM - 04:00 PM",
+            "04:00 PM - 04:15 PM",
             "DMS103",
             "C-R16",
             "Winner #94  vs. Winner #95",
@@ -1745,7 +1753,7 @@
             ""
         ],
         [
-            "04:00 PM - 04:15 PM",
+            "04:15 PM - 04:30 PM",
             "DXD35",
             "C-R32",
             "Loser #7  vs. Loser #8",
@@ -1753,7 +1761,7 @@
             ""
         ],
         [
-            "04:00 PM - 04:15 PM",
+            "04:15 PM - 04:30 PM",
             "DXD36",
             "C-R32",
             "Loser #9  vs. Loser #10",
@@ -1841,7 +1849,7 @@
             ""
         ],
         [
-            "04:15 PM - 04:30 PM",
+            "04:30 PM - 04:45 PM",
             "CMS50",
             "C-QF",
             "Winner #44 vs. Winner #45",
@@ -1849,7 +1857,7 @@
             ""
         ],
         [
-            "04:15 PM - 04:30 PM",
+            "04:30 PM - 04:45 PM",
             "CMS51",
             "C-QF",
             "Winner #46 vs. Winner #47",
@@ -1937,7 +1945,7 @@
             ""
         ],
         [
-            "04:30 PM - 04:45 PM",
+            "04:45 PM - 05:00 PM",
             "CXD48",
             "C-QF",
             "Winner #40  vs. Winner #41",
@@ -1945,7 +1953,7 @@
             ""
         ],
         [
-            "04:30 PM - 04:45 PM",
+            "04:45 PM - 05:00 PM",
             "CXD49",
             "C-QF",
             "Winner #42  vs. Winner #43",
@@ -2033,7 +2041,7 @@
             ""
         ],
         [
-            "04:45 PM - 05:00 PM",
+            "05:00 PM - 05:15 PM",
             "DXD51",
             "C-QF",
             "Winner #46 vs. Winner #47",
@@ -2041,7 +2049,15 @@
             ""
         ],
         [
-            "04:45 PM - 05:00 PM",
+            "05:00 PM - 05:15 PM",
+            "BXD17",
+            "C-R16",
+            "Loser #3  vs. Loser #4",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "05:00 PM - 05:15 PM",
             "BXD18",
             "C-R16",
             "Loser #5  vs. Loser #6",
@@ -2121,7 +2137,7 @@
             ""
         ],
         [
-            "05:00 PM - 05:30 PM",
+            "05:15 PM - 05:45 PM",
             "BMS30",
             "SF",
             "Winner #27  vs. Winner #28",
@@ -2129,7 +2145,7 @@
             ""
         ],
         [
-            "05:00 PM - 05:30 PM",
+            "05:15 PM - 05:45 PM",
             "DMS61",
             "SF",
             "Winner #57  vs. Winner #58",
@@ -2217,7 +2233,7 @@
             ""
         ],
         [
-            "05:30 PM - 06:00 PM",
+            "05:45 PM - 06:15 PM",
             "BXD14",
             "SF",
             "Winner #11  vs. Winner #12",
@@ -2225,7 +2241,7 @@
             ""
         ],
         [
-            "05:30 PM - 05:45 PM",
+            "05:45 PM - 06:00 PM",
             "CDWS24",
             "C-SF",
             "Winner #20  vs. Winner #21",
@@ -2257,7 +2273,7 @@
             ""
         ],
         [
-            "05:45 PM - 06:00 PM",
+            "06:00 PM - 06:15 PM",
             "ABWS24",
             "C-SF",
             "Winner #20 vs. Winner #21",
@@ -2345,7 +2361,7 @@
             ""
         ],
         [
-            "06:00 PM - 06:15 PM",
+            "06:15 PM - 06:30 PM",
             "AMS25",
             "C-SF",
             "Winner #22 vs. Winner #23",
@@ -2353,7 +2369,7 @@
             ""
         ],
         [
-            "06:00 PM - 06:15 PM",
+            "06:15 PM - 06:30 PM",
             "DXD52",
             "C-SF",
             "Winner #48  vs. Winner #49",
@@ -2441,18 +2457,26 @@
             ""
         ],
         [
-            "06:15 PM - 06:45 PM",
-            "CXD31",
-            "Final",
-            "Winner #29  vs. Winner #30",
+            "06:30 PM - 07:05 PM",
+            "BMS54",
+            "C-Final",
+            "Winner #52  vs. Winner #53",
             "Match Not Started",
             ""
         ],
         [
-            "06:15 PM - 06:45 PM",
-            "AXD15",
+            "06:30 PM - 07:05 PM",
+            "DMS110",
+            "C-Final",
+            "Winner #108  vs. Winner #109",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "06:30 PM - 07:00 PM",
+            "CXD31",
             "Final",
-            "Winner #13  vs. Winner #14",
+            "Winner #29  vs. Winner #30",
             "Match Not Started",
             ""
         ],
@@ -2469,22 +2493,6 @@
             "ABWS26",
             "C-Final",
             "Winner #24  vs. Winner #25",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "06:45 PM - 07:20 PM",
-            "BMS54",
-            "C-Final",
-            "Winner #52  vs. Winner #53",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "06:45 PM - 07:20 PM",
-            "DMS110",
-            "C-Final",
-            "Winner #108  vs. Winner #109",
             "Match Not Started",
             ""
         ],
@@ -2531,6 +2539,14 @@
         [
             "06:50 PM - 07:20 PM",
             "BXD15",
+            "Final",
+            "Winner #13  vs. Winner #14",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "07:20 PM - 07:50 PM",
+            "AXD15",
             "Final",
             "Winner #13  vs. Winner #14",
             "Match Not Started",
