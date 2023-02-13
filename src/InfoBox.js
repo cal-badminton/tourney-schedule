@@ -122,7 +122,8 @@ export default function InfoBox(props) {
             <br></br>
             <strong>Prizes:</strong> <br></br>- Trophies will be awarded to all
             1st, 2nd, and consolation place finishers. 1st and 2nd place in
-            flight A will also be awarded cash prizes.<br></br>
+            flight A will also be awarded cash prizes. Other events may have
+            cash prizes.<br></br>
             <br></br>
             <strong>T-Shirts</strong>
             <br></br>- We will be selling t-shirts at the tournament for $17.
