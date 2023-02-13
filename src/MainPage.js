@@ -31,7 +31,17 @@ export default function MainPage() {
       <InfoBox layout={false}></InfoBox>
       <InfoBox layout={true}></InfoBox>
       <Alert severity="info" sx={{ p: 2 }}>
-        Draws and Match times are now published! Please make sure you review your match times before coming to the tournament. This page is periodically updated, so do not use this page to check whether your matches are on time.
+        <a
+          href="https://drive.google.com/file/d/16wLCCTE9Nfn_IrK_SlsjQPfX1jDnpJI_/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Draws
+        </a>{" "}
+        and match times are now published! Please make sure you review your
+        match times before coming to the tournament. This page is periodically
+        updated, so do not use this page to check whether your matches are on
+        time.
       </Alert>
       <DayTabs></DayTabs>
     </Container>

@@ -76,7 +76,7 @@ export default function InfoBox(props) {
           <Typography>
             <strong>Announcements</strong> <br></br>
             <a
-              href="https://drive.google.com/drive/folders/1MC4UxGsaVdUwTQiWWWcO6OrzKOm6T8Nc?usp=sharing"
+              href="https://drive.google.com/file/d/16wLCCTE9Nfn_IrK_SlsjQPfX1jDnpJI_/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
@@ -102,15 +102,20 @@ export default function InfoBox(props) {
             <strong>Entry Fees</strong> <br></br>- $24 for the first event, $22
             for each additional event; maximum of 2 events per day. No more than
             2 flights per event.
-            <br></br>- Entry fees will be collected in CASH on the day of the
-            tournament at the check-in desk. We will NOT be taking Venmo, Zelle,
-            or other online payment options. There are ATMs nearby, but not
-            directly next to the Pavilion; please plan accordingly.
+            <br></br>- Entry fees will be collected online. Please read the{" "}
+            <a
+              href="https://docs.google.com/document/d/1gKLrObSsGdL8rLNJHQsyGHytigIUAyAC7y0iUstitMA/edit?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
+            >
+              payment instructions
+            </a>{" "}
+            CAREFULLY. You MUST pay before playing your first match.
             <br></br>
             <br></br>
-            <strong>Entry Deadline</strong> <br></br>
-            - If you are withdrawing after the deadline please notify us at
-            calbadminton@gmail.com <br></br>
+            <strong>Entry Deadline</strong> <br></br>- If you are withdrawing
+            after the deadline please notify us at calbadminton@gmail.com{" "}
+            <br></br>
             Birds: <br></br>- Unlimited shuttles will be provided for A flights;
             however, people will need to supply their own shuttles for all other
             flights.<br></br>
@@ -177,10 +182,9 @@ export default function InfoBox(props) {
             questions or concerns! Make sure you guys invite all your friends
             and we look forward to seeing you all!<br></br>
             <br></br>
-            Polar Bear Tournament Co-directors: Eric Chang, John Le, Charles Liu, and Sophia Siopack<br></br>
+            Polar Bear Tournament Co-directors: Eric Chang, John Le, Charles
+            Liu, and Sophia Siopack<br></br>
             <br></br>
-            Sponsor & Partner:
-            AK Badminton & Tennis: https://www.facebook.com/akbadmintontennis<br></br>
             <strong>
               <a
                 href="https://www.facebook.com/akbadmintontennis"
