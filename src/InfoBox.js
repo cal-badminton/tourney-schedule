@@ -76,7 +76,7 @@ export default function InfoBox(props) {
           <Typography>
             <strong>Announcements</strong> <br></br>
             <a
-              href="https://drive.google.com/drive/folders/1MC4UxGsaVdUwTQiWWWcO6OrzKOm6T8Nc?usp=sharing"
+              href="https://drive.google.com/file/d/16wLCCTE9Nfn_IrK_SlsjQPfX1jDnpJI_/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
@@ -107,9 +107,9 @@ export default function InfoBox(props) {
             directly next to the Pavilion; please plan accordingly.
             <br></br>
             <br></br>
-            <strong>Entry Deadline</strong> <br></br>
-            - If you are withdrawing after the deadline please notify us at
-            calbadminton@gmail.com <br></br>
+            <strong>Entry Deadline</strong> <br></br>- If you are withdrawing
+            after the deadline please notify us at calbadminton@gmail.com{" "}
+            <br></br>
             Birds: <br></br>- Unlimited shuttles will be provided for A flights;
             however, people will need to supply their own shuttles for all other
             flights.<br></br>
@@ -175,10 +175,9 @@ export default function InfoBox(props) {
             questions or concerns! Make sure you guys invite all your friends
             and we look forward to seeing you all!<br></br>
             <br></br>
-            Polar Bear Tournament Co-directors: Eric Chang, John Le, Charles Liu, and Sophia Siopack<br></br>
+            Polar Bear Tournament Co-directors: Eric Chang, John Le, Charles
+            Liu, and Sophia Siopack<br></br>
             <br></br>
-            Sponsor & Partner:
-            AK Badminton & Tennis: https://www.facebook.com/akbadmintontennis<br></br>
             <strong>
               <a
                 href="https://www.facebook.com/akbadmintontennis"
