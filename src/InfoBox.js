@@ -84,9 +84,9 @@ export default function InfoBox(props) {
             </a>
             <br></br>
             <br></br>
-            <strong>Dates</strong> <br></br>- Saturday 2/18 (Singles & Mixed),
-            8AM-10PM <br></br>- Sunday 2/19 (Doubles), 8AM-6PM <br></br>-
-            Check-in will begin at 7:30AM on both days. <br></br>
+            <strong>Dates</strong> <br></br>- Saturday 2/18 (Singles, Mixed, CMD, DMD),
+            8:30AM-10PM <br></br>- Sunday 2/19 (Doubles, except CMD, DMD), 8:30AM-2PM <br></br>-
+            Check-in will begin at 8:10AM on both days. <br></br>
             <br></br>
             <strong>Events</strong> <br></br>- Flights: A, B, C, D Singles,
             Doubles, Mixed
@@ -99,9 +99,8 @@ export default function InfoBox(props) {
             must be within two flights. In other words, keep all of your entries
             between 2 consecutive letters (AB, BC, or CD). <br></br>
             <br></br>
-            <strong>Entry Fees</strong> <br></br>- $24 for the first event, $22
-            for each additional event; maximum of 2 events per day. No more than
-            2 flights per event.
+            <strong>Entry Fees</strong> <br></br>- $18 for the first event, $15
+            for each additional event. No more than 2 flights per event.
             <br></br>- Entry fees will be collected in CASH on the day of the
             tournament at the check-in desk. We will NOT be taking Venmo, Zelle,
             or other online payment options. There are ATMs nearby, but not
@@ -116,8 +115,7 @@ export default function InfoBox(props) {
             flights.<br></br>
             <br></br>
             <strong>Prizes:</strong> <br></br>- Trophies will be awarded to all
-            1st, 2nd, and consolation place finishers. 1st and 2nd place in
-            flight A will also be awarded cash prizes.<br></br>
+            1st and 2nd place finishers. 1st and 2nd place will also be awarded cash prizes.<br></br>
             <br></br>
             <strong>T-Shirts</strong>
             <br></br>- We will be selling t-shirts at the tournament for $17.
