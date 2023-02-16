@@ -101,10 +101,16 @@ export default function InfoBox(props) {
             <br></br>
             <strong>Entry Fees</strong> <br></br>- $18 for the first event, $15
             for each additional event. No more than 2 flights per event.
-            <br></br>- Entry fees will be collected in CASH on the day of the
-            tournament at the check-in desk. We will NOT be taking Venmo, Zelle,
-            or other online payment options. There are ATMs nearby, but not
-            directly next to the Pavilion; please plan accordingly.
+            <br></br>- Entry fees will be collected online. Please read the {" "}
+            <a
+              href="https://docs.google.com/document/d/1gKLrObSsGdL8rLNJHQsyGHytigIUAyAC7y0iUstitMA/edit?fbclid=IwAR3D7QT8gFxZwCumoA9uJP1I8VrnkUAkSc-MUIHVhV5bmf9xy49qxnHp4P4"
+              target="_blank"
+              rel="noreferrer"
+            >
+            payment instructions
+            </a>
+            {" "} CAREFULLY. You MUST pay before playing your first match. We will NOT be taking Venmo, Zelle,
+            or other online payment options.
             <br></br>
             <br></br>
             <strong>Entry Deadline</strong> <br></br>- If you are withdrawing
