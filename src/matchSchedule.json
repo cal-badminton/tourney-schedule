@@ -2,14 +2,6 @@
     "saturday": [
         [
             "08:30 AM - 09:00 AM",
-            "CMD4",
-            "R64",
-            "Matthew Leoveras Elma+Kevin Yu vs. David Le+Tommy Nguyen",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
             "CMD8",
             "R64",
             "Joaquin Antonio+Thompson Wong vs. Khoi Le+Franz Salisi",
@@ -42,14 +34,6 @@
         ],
         [
             "08:30 AM - 09:00 AM",
-            "CMD21",
-            "R64",
-            "Jason Chen+Kyle Hayden vs. Michihiro Horikawa+Arnab Singh",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
             "CMD25",
             "R64",
             "Jedd Durano+Cheeno Solas vs. Bin Chen+Hugo Lin",
@@ -74,14 +58,6 @@
         ],
         [
             "08:30 AM - 09:00 AM",
-            "DMD8",
-            "R64",
-            "David Le+Tommy Nguyen vs. Jason Chen+Kyle Hayden",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
             "DMD12",
             "R64",
             "Andre Dwight Johnson+Jang Page vs. Jimmy Do+Joshua Huang",
@@ -101,14 +77,6 @@
             "DMD16",
             "R64",
             "Krispin Palma Temena+Wayne L Tseng vs. Steffi Ling+Kristine Nicole Ngo",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "09:00 AM - 09:30 AM",
-            "DMD17",
-            "R64",
-            "Kelvin Ngo+Gagandeep Sharma vs. Gary Fang+Frank Ye",
             "Match Not Started",
             ""
         ],
@@ -228,7 +196,7 @@
             "09:30 AM - 10:00 AM",
             "CMD34",
             "R32",
-            "Myles Chen+Justin Wang vs. M. Leoveras Elma+K. Yu or D. Le+T. Nguyen",
+            "Myles Chen+Justin Wang vs. Matthew Leoveras Elma+Kevin Yu",
             "Match Not Started",
             ""
         ],
@@ -300,7 +268,7 @@
             "10:00 AM - 10:30 AM",
             "CMD43",
             "R32",
-            "J. Chen+K. Hayden or M. Horikawa+A. Singh vs. Liang Qu+Truman Tang",
+            "Michihiro Horikawa+Arnab Singh vs. Liang Qu+Truman Tang",
             "Match Not Started",
             ""
         ],
@@ -370,14 +338,6 @@
         ],
         [
             "10:00 AM - 10:30 AM",
-            "DMD36",
-            "R32",
-            "Alvin Fung+Alec Lee vs. D. Le+T. Nguyen or J. Chen+K. Hayden",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:00 AM - 10:30 AM",
             "DMD37",
             "R32",
             "Bin Chen+Hugo Lin[3/4] vs. Nelson Sim+Leo Yuan",
@@ -412,7 +372,7 @@
             "10:30 AM - 11:00 AM",
             "DMD41",
             "R32",
-            "K. Ngo+G. Sharma or G. Fang+F. Ye vs. Nathan Chen+Srinivasa Akhilesh Nidamanuri",
+            "Gary Fang+Frank Ye vs. Nathan Chen+Srinivasa Akhilesh Nidamanuri",
             "Match Not Started",
             ""
         ],
@@ -533,14 +493,6 @@
             "CMS9",
             "R32",
             "Bill Huynh vs. Sydney Samol",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "11:00 AM - 11:30 AM",
-            "CMS10",
-            "R32",
-            "Jason Chen vs. Shun Lu[5/8]",
             "Match Not Started",
             ""
         ],
@@ -1060,7 +1012,7 @@
             "02:00 PM - 02:30 PM",
             "CMD49",
             "R16",
-            "A. Chun+R. Tseng or R. Wang+A. Yadavalli vs. Winner #34",
+            "A. Chun+R. Tseng or R. Wang+A. Yadavalli vs. M. Chen+J. Wang or M. Leoveras Elma+K. Yu",
             "Match Not Started",
             ""
         ],
@@ -1100,7 +1052,7 @@
             "02:00 PM - 02:30 PM",
             "CMD54",
             "R16",
-            "Winner #43  vs. A. Kasetty+A. Theva or R. Huang+C. Marc Prajogo",
+            "M. Horikawa+A. Singh or L. Qu+T. Tang vs. A. Kasetty+A. Theva or R. Huang+C. Marc Prajogo",
             "Match Not Started",
             ""
         ],
@@ -1132,7 +1084,7 @@
             "02:00 PM - 02:30 PM",
             "DMD50",
             "R16",
-            "M. Horikawa+A. Singh or K. Le+F. Salisi vs. Winner #36",
+            "M. Horikawa+A. Singh or K. Le+F. Salisi vs. Alvin Fung+Alec Lee",
             "Match Not Started",
             ""
         ],
@@ -1156,7 +1108,7 @@
             "02:30 PM - 03:00 PM",
             "DMD53",
             "R16",
-            "Winner #41  vs. Winner #42",
+            "G. Fang+F. Ye or N. Chen+S. Akhilesh Nidamanuri vs. Winner #42",
             "Match Not Started",
             ""
         ],
@@ -1236,7 +1188,7 @@
             "02:30 PM - 03:00 PM",
             "CMS21",
             "R16",
-            "B. Huynh or S. Samol vs. J. Chen or S. Lu",
+            "B. Huynh or S. Samol vs. Shun Lu[5/8]",
             "Match Not Started",
             ""
         ],
