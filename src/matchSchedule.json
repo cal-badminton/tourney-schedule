@@ -18,41 +18,9 @@
         ],
         [
             "08:30 AM - 09:00 AM",
-            "CMD12",
-            "R64",
-            "Joaquin Antonio+Thompson Wong vs. Nathan Theng+Kalvin chang Xiong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
-            "CMD14",
-            "R64",
-            "Ryan Ladd kintana Luna+Arnab Pramanik vs. Andre Dwight Johnson+Jang Page",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
             "CMD16",
             "R64",
             "Aaron Y. Lim+Curtis Luu vs. Alex Chang+George Wong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
-            "CMD17",
-            "R64",
-            "Ronald Fong+Wyatt Fong vs. Jimmy Do+Joshua Huang",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
-            "CMD19",
-            "R64",
-            "Susmith Rajendra Barigidad+Krishnaraj Singaram vs. Zhongan Lin+Frank Ye",
             "Match Not Started",
             ""
         ],
@@ -74,14 +42,6 @@
         ],
         [
             "08:30 AM - 09:00 AM",
-            "CMD27",
-            "R64",
-            "David Le+Tommy Nguyen vs. Joseph HT Bae+Marc Lucero",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
             "CMD29",
             "R64",
             "Khoi Le+Franz Salisi vs. Jedd Durano+Cheeno Solas",
@@ -97,7 +57,7 @@
             ""
         ],
         [
-            "09:00 AM - 09:30 AM",
+            "08:30 AM - 09:00 AM",
             "DMD8",
             "R64",
             "Jedd Durano+Cheeno Solas vs. Krispin Palma Temena+Wayne L Tseng",
@@ -105,15 +65,7 @@
             ""
         ],
         [
-            "09:00 AM - 09:30 AM",
-            "DMD12",
-            "R64",
-            "Joaquin Antonio+Thompson Wong vs. Nathan Theng+Kalvin chang Xiong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "09:00 AM - 09:30 AM",
+            "08:30 AM - 09:00 AM",
             "DMD14",
             "R64",
             "Derek Huynh+Jeffrey y Ma vs. Pratik Gaikwad+Quamrul H Mullah",
@@ -193,7 +145,7 @@
             ""
         ],
         [
-            "09:30 AM - 10:00 AM",
+            "09:00 AM - 09:30 AM",
             "DMS12",
             "R64",
             "Logan Lei-Chong vs. Marzouq Khan",
@@ -201,7 +153,7 @@
             ""
         ],
         [
-            "09:30 AM - 10:00 AM",
+            "09:00 AM - 09:30 AM",
             "DMS16",
             "R64",
             "Oliver Wu vs. Aidan Leung",
@@ -209,7 +161,7 @@
             ""
         ],
         [
-            "09:30 AM - 10:00 AM",
+            "09:00 AM - 09:30 AM",
             "DMS17",
             "R64",
             "Srinivasa Akhilesh Nidamanuri vs. Simon Liu",
@@ -276,12 +228,12 @@
             "09:30 AM - 10:00 AM",
             "CMD38",
             "R32",
-            "Pratik Gaikwad+Quamrul H Mullah vs. J. Antonio+T. Wong or N. Theng+K. chang Xiong",
+            "Pratik Gaikwad+Quamrul H Mullah vs. Joaquin Antonio+Thompson Wong",
             "Match Not Started",
             ""
         ],
         [
-            "10:00 AM - 10:30 AM",
+            "09:30 AM - 10:00 AM",
             "CMD39",
             "R32",
             "Ryan Chan+Kevin Junxian Lan[5/8] vs. R. kintana Luna+A. Pramanik or A. Dwight Johnson+J. Page",
@@ -289,18 +241,10 @@
             ""
         ],
         [
-            "10:00 AM - 10:30 AM",
-            "CMD40",
-            "R32",
-            "Justin S Ear+David Yu vs. A. Y. Lim+C. Luu or A. Chang+G. Wong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:00 AM - 10:30 AM",
+            "09:30 AM - 10:00 AM",
             "CMD41",
             "R32",
-            "R. Fong+W. Fong or J. Do+J. Huang vs. Justin T Nguyen+Harsh Srivastav",
+            "Jimmy Do+Joshua Huang vs. Justin T Nguyen+Harsh Srivastav",
             "Match Not Started",
             ""
         ],
@@ -369,7 +313,7 @@
             ""
         ],
         [
-            "10:30 AM - 11:00 AM",
+            "10:00 AM - 10:30 AM",
             "DMD35",
             "R32",
             "Chhai Cheng+Leo Lam[5/8] vs. M. Leoveras Elma+K. Yu or A. Dwight Johnson+J. Page",
@@ -377,7 +321,7 @@
             ""
         ],
         [
-            "10:30 AM - 11:00 AM",
+            "10:00 AM - 10:30 AM",
             "DMD36",
             "R32",
             "David J Chen+Zachary Wang vs. J. Durano+C. Solas or K. Palma Temena+W. L Tseng",
@@ -385,10 +329,10 @@
             ""
         ],
         [
-            "10:30 AM - 11:00 AM",
+            "10:00 AM - 10:30 AM",
             "DMD37",
             "R32",
-            "Liang Qu+Truman Tang[3/4] vs. Jackie Dai+Kelvin Tang",
+            "Liang Qu+Truman Tang[3/4] vs. M. Vo+J. Xu or J. Dai+K. Tang",
             "Match Not Started",
             ""
         ],
@@ -396,7 +340,7 @@
             "10:30 AM - 11:00 AM",
             "DMD38",
             "R32",
-            "Akhil Kasetty+Aathavan Theva vs. J. Antonio+T. Wong or N. Theng+K. chang Xiong",
+            "Akhil Kasetty+Aathavan Theva vs. Joaquin Antonio+Thompson Wong",
             "Match Not Started",
             ""
         ],
@@ -457,7 +401,7 @@
             ""
         ],
         [
-            "11:00 AM - 11:30 AM",
+            "10:30 AM - 11:00 AM",
             "DMD47",
             "R32",
             "N. Sim+L. Yuan or N. Chen+S. Akhilesh Nidamanuri vs. Tiger Luo+Takumu Osa",
@@ -465,7 +409,7 @@
             ""
         ],
         [
-            "11:00 AM - 11:30 AM",
+            "10:30 AM - 11:00 AM",
             "DMD48",
             "R32",
             "Gary Fang+Frank Ye vs. Georgina C+Fiona Lai[2]",
@@ -473,7 +417,7 @@
             ""
         ],
         [
-            "11:00 AM - 11:30 AM",
+            "10:30 AM - 11:00 AM",
             "CMS2",
             "R32",
             "Anthony Lin vs. Kyle Alexander Page Mabasa",
@@ -493,6 +437,14 @@
             "CMS4",
             "R32",
             "Oliver Wu vs. Shinichiro Koike",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "11:00 AM - 11:30 AM",
+            "CMS5",
+            "R32",
+            "Richard Huang[3/4] vs. Takumu Osa",
             "Match Not Started",
             ""
         ],
@@ -545,7 +497,15 @@
             ""
         ],
         [
-            "11:30 AM - 12:00 noon",
+            "11:00 AM - 11:30 AM",
+            "CMS12",
+            "R32",
+            "Vivek Verma vs. Marcus Zhu",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "11:00 AM - 11:30 AM",
             "CMS13",
             "R32",
             "Pranav Saran vs. Arun Yadavalli",
@@ -553,7 +513,7 @@
             ""
         ],
         [
-            "11:30 AM - 12:00 noon",
+            "11:00 AM - 11:30 AM",
             "CMS14",
             "R32",
             "Krispin Palma Temena vs. Harsh Srivastav[5/8]",
@@ -565,14 +525,6 @@
             "CMS15",
             "R32",
             "Akhil Kasetty vs. Devang Gaur",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "11:30 AM - 12:00 noon",
-            "BMS2",
-            "R32",
-            "Shinichiro Koike vs. Sydney Samol",
             "Match Not Started",
             ""
         ],
@@ -641,7 +593,7 @@
             ""
         ],
         [
-            "12:00 noon - 12:30 PM",
+            "11:30 AM - 12:00 noon",
             "DMS34",
             "R32",
             "Aathavan Theva vs. F. Salisi or F. Zhu",
@@ -649,7 +601,7 @@
             ""
         ],
         [
-            "12:00 noon - 12:30 PM",
+            "11:30 AM - 12:00 noon",
             "DMS35",
             "R32",
             "Khoi Le[5/8] vs. Pranav Saran",
@@ -657,7 +609,7 @@
             ""
         ],
         [
-            "12:00 noon - 12:30 PM",
+            "11:30 AM - 12:00 noon",
             "DMS36",
             "R32",
             "Jang Page vs. B. Deacon or W. Chiu",
@@ -737,7 +689,7 @@
             ""
         ],
         [
-            "12:30 PM - 01:00 PM",
+            "12:00 noon - 12:30 PM",
             "DMS46",
             "R32",
             "Kevin Yu vs. Takumu Osa[5/8]",
@@ -745,7 +697,7 @@
             ""
         ],
         [
-            "12:30 PM - 01:00 PM",
+            "12:00 noon - 12:30 PM",
             "DMS47",
             "R32",
             "A. Quinto or G. Fang vs. Shaun Aquino",
@@ -753,7 +705,7 @@
             ""
         ],
         [
-            "12:30 PM - 01:00 PM",
+            "12:00 noon - 12:30 PM",
             "DMS48",
             "R32",
             "Zhaohua J Zhang vs. Harsh Srivastav[2]",
@@ -833,15 +785,7 @@
             ""
         ],
         [
-            "01:00 PM - 01:30 PM",
-            "CXD12",
-            "R32",
-            "Randy Ouyang+Yuanqi Ivy Zhou vs. Ryan Phan+Esien Ng[3/4]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "01:00 PM - 01:30 PM",
+            "12:30 PM - 01:00 PM",
             "CXD13",
             "R32",
             "Pranav Vijay Kumar+Collette Shu vs. Ethan Chin+Kristin Song",
@@ -849,15 +793,7 @@
             ""
         ],
         [
-            "01:00 PM - 01:30 PM",
-            "CXD14",
-            "R32",
-            "Jeremy Ryan Leung+Claudia Xu vs. Byron Li+Helen Wong[5/8]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "01:00 PM - 01:30 PM",
+            "12:30 PM - 01:00 PM",
             "CXD15",
             "R32",
             "Christopher Huang+Catherine Lai vs. Naveen Ramesh+Neharika Yadav",
@@ -890,14 +826,6 @@
         ],
         [
             "01:00 PM - 01:30 PM",
-            "DXD5",
-            "R32",
-            "Bin Chen+Minger Lin[3/4] vs. Alex E Kim+Mae C Jamarolin",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "01:00 PM - 01:30 PM",
             "DXD6",
             "R32",
             "Yu Zhang+Jia Li vs. Gary Zhou+Maddie Xiong",
@@ -914,14 +842,6 @@
         ],
         [
             "01:00 PM - 01:30 PM",
-            "DXD8",
-            "R32",
-            "Michael Phannavong+Emily Lam vs. Logan Lei-Chong+Elise Fong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "01:00 PM - 01:30 PM",
             "DXD9",
             "R32",
             "Aidan Lee+Mylene Keophaseut vs. Oliver Wu+Leah Ning",
@@ -929,7 +849,7 @@
             ""
         ],
         [
-            "01:30 PM - 02:00 PM",
+            "01:00 PM - 01:30 PM",
             "DXD10",
             "R32",
             "Justin Wang+Aiko Eliana Yu vs. Matthew Leoveras Elma+Ninna Ronnes[5/8]",
@@ -937,7 +857,7 @@
             ""
         ],
         [
-            "01:30 PM - 02:00 PM",
+            "01:00 PM - 01:30 PM",
             "DXD11",
             "R32",
             "Naveen Ramesh+Neharika Yadav vs. Nathan Chen+Seo Yeon Kim",
@@ -945,7 +865,7 @@
             ""
         ],
         [
-            "01:30 PM - 02:00 PM",
+            "01:00 PM - 01:30 PM",
             "DXD12",
             "R32",
             "Myles Chen+Leanna Baltonado vs. Chingsong Teo+Twiness Xu[3/4]",
@@ -953,7 +873,7 @@
             ""
         ],
         [
-            "01:30 PM - 02:00 PM",
+            "01:00 PM - 01:30 PM",
             "DXD13",
             "R32",
             "Eric Tran Wang+Hannah Leehan Wang vs. Franz Salisi+Sophia Siopack",
@@ -973,6 +893,14 @@
             "CDWS2",
             "R16",
             "Ishita Chaurasia vs. Nasreen Barua Schulze",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "01:30 PM - 02:00 PM",
+            "CDWS4",
+            "R16",
+            "Sarah A Chun vs. Sashrika Pandey",
             "Match Not Started",
             ""
         ],
@@ -1010,6 +938,14 @@
         ],
         [
             "01:30 PM - 02:00 PM",
+            "AMS2",
+            "R16",
+            "Justeen Lee vs. Brad Chiu",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "01:30 PM - 02:00 PM",
             "BXD2",
             "R16",
             "Ethan Chin+Kristin Song vs. Tony Lau+Shanlai Shangguan",
@@ -1017,7 +953,7 @@
             ""
         ],
         [
-            "02:00 PM - 02:30 PM",
+            "01:30 PM - 02:00 PM",
             "BXD7",
             "R16",
             "Martin Nguyen+Evelyn Tan vs. Krishnaraj Singaram+Shriya Sarraf",
@@ -1044,7 +980,7 @@
             "02:00 PM - 02:30 PM",
             "CMD51",
             "R16",
-            "Winner #37  vs. Winner #38",
+            "Winner #37  vs. P. Gaikwad+Q. H Mullah or J. Antonio+T. Wong",
             "Match Not Started",
             ""
         ],
@@ -1060,7 +996,7 @@
             "02:00 PM - 02:30 PM",
             "CMD53",
             "R16",
-            "Winner #41  vs. Winner #42",
+            "J. Do+J. Huang or J. T Nguyen+H. Srivastav vs. Winner #42",
             "Match Not Started",
             ""
         ],
@@ -1105,15 +1041,15 @@
             ""
         ],
         [
-            "02:30 PM - 03:00 PM",
+            "02:00 PM - 02:30 PM",
             "DMD51",
             "R16",
-            "L. Qu+T. Tang or J. Dai+K. Tang vs. Winner #38",
+            "Winner #37  vs. A. Kasetty+A. Theva or J. Antonio+T. Wong",
             "Match Not Started",
             ""
         ],
         [
-            "02:30 PM - 03:00 PM",
+            "02:00 PM - 02:30 PM",
             "DMD52",
             "R16",
             "Winner #39  vs. Winner #40",
@@ -1154,30 +1090,6 @@
         ],
         [
             "02:30 PM - 03:00 PM",
-            "CDWS3",
-            "R16",
-            "Yuqing Xiao[3/4] vs. Nikita Sharma",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "02:30 PM - 03:00 PM",
-            "CDWS4",
-            "R16",
-            "Sarah A Chun vs. Sashrika Pandey",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "02:30 PM - 03:00 PM",
-            "CDWS5",
-            "R16",
-            "Amanda Trinh vs. Helina Li",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "02:30 PM - 03:00 PM",
             "CDWS6",
             "R16",
             "Yuanqi Ivy Zhou vs. Leanna Baltonado[3/4]",
@@ -1201,7 +1113,7 @@
             ""
         ],
         [
-            "03:00 PM - 03:30 PM",
+            "02:30 PM - 03:00 PM",
             "CMS19",
             "R16",
             "R. Huang or T. Osa vs. A. Leung or J. Tao",
@@ -1209,7 +1121,7 @@
             ""
         ],
         [
-            "03:00 PM - 03:30 PM",
+            "02:30 PM - 03:00 PM",
             "CMS20",
             "R16",
             "B. Azali or A. Quinto vs. A. Pramanik or R. kintana Luna",
@@ -1217,7 +1129,7 @@
             ""
         ],
         [
-            "03:00 PM - 03:30 PM",
+            "02:30 PM - 03:00 PM",
             "CMS21",
             "R16",
             "B. Huynh or S. Samol vs. J. Chen or S. Lu",
@@ -1225,10 +1137,10 @@
             ""
         ],
         [
-            "03:00 PM - 03:30 PM",
+            "02:30 PM - 03:00 PM",
             "CMS22",
             "R16",
-            "X. Meng or X. Huang vs. Vivek Verma",
+            "X. Meng or X. Huang vs. V. Verma or M. Zhu",
             "Match Not Started",
             ""
         ],
@@ -1266,14 +1178,6 @@
         ],
         [
             "03:00 PM - 03:30 PM",
-            "BMS19",
-            "R16",
-            "Wyatt Fong[3/4] vs. S. Lu or B. Chiu",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "03:00 PM - 03:30 PM",
             "BMS20",
             "R16",
             "Jon Moser vs. S. Chinthalapati or B. Bielin",
@@ -1297,7 +1201,7 @@
             ""
         ],
         [
-            "03:30 PM - 04:00 PM",
+            "03:00 PM - 03:30 PM",
             "BMS23",
             "R16",
             "A. Sun or R. Wang vs. Kevin Liou",
@@ -1305,7 +1209,7 @@
             ""
         ],
         [
-            "03:30 PM - 04:00 PM",
+            "03:00 PM - 03:30 PM",
             "BMS24",
             "R16",
             "Z. Guan or R. kintana Luna vs. Marc Rusli[2]",
@@ -1313,7 +1217,7 @@
             ""
         ],
         [
-            "03:30 PM - 04:00 PM",
+            "03:00 PM - 03:30 PM",
             "DMS49",
             "R16",
             "J. Liu or K. Page Mabasa vs. Winner #34",
@@ -1321,7 +1225,7 @@
             ""
         ],
         [
-            "03:30 PM - 04:00 PM",
+            "03:00 PM - 03:30 PM",
             "DMS50",
             "R16",
             "K. Le or P. Saran vs. Winner #36",
@@ -1393,7 +1297,7 @@
             ""
         ],
         [
-            "04:00 PM - 04:30 PM",
+            "03:30 PM - 04:00 PM",
             "CXD19",
             "R16",
             "Alex Law+Agnes Wong[3/4] vs. T. Wong+E. Liu or Y. Zhang+J. Li",
@@ -1401,7 +1305,7 @@
             ""
         ],
         [
-            "04:00 PM - 04:30 PM",
+            "03:30 PM - 04:00 PM",
             "CXD20",
             "R16",
             "C. Liu+R. Ting or L. Lam+A. Lin vs. A. Sun+A. Wang or M. Leoveras Elma+N. Ronnes",
@@ -1409,7 +1313,7 @@
             ""
         ],
         [
-            "04:00 PM - 04:30 PM",
+            "03:30 PM - 04:00 PM",
             "CXD21",
             "R16",
             "S. venkata Sandru+J. Khaw or T. Ren+C. Huang vs. B. Chen+M. Lin or K. Tong+S. Yeh",
@@ -1417,7 +1321,7 @@
             ""
         ],
         [
-            "04:00 PM - 04:30 PM",
+            "03:30 PM - 04:00 PM",
             "CXD22",
             "R16",
             "C. Teo+T. Xu or E. Tran Wang+H. Leehan Wang vs. R. Ouyang+Y. Ivy Zhou or R. Phan+E. Ng",
@@ -1428,7 +1332,7 @@
             "04:00 PM - 04:30 PM",
             "CXD23",
             "R16",
-            "P. Vijay Kumar+C. Shu or E. Chin+K. Song vs. J. Ryan Leung+C. Xu or B. Li+H. Wong",
+            "P. Vijay Kumar+C. Shu or E. Chin+K. Song vs. Jeremy Ryan Leung+Claudia Xu",
             "Match Not Started",
             ""
         ],
@@ -1437,22 +1341,6 @@
             "CXD24",
             "R16",
             "C. Huang+C. Lai or N. Ramesh+N. Yadav vs. Martin Nguyen+Evelyn Tan[2]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "04:00 PM - 04:30 PM",
-            "AMS1",
-            "R16",
-            "Kelvin Chong[1] vs. Rico Kim Kuzma",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "04:00 PM - 04:30 PM",
-            "AMS2",
-            "R16",
-            "Justeen Lee vs. Brad Chiu",
             "Match Not Started",
             ""
         ],
@@ -1474,6 +1362,14 @@
         ],
         [
             "04:00 PM - 04:30 PM",
+            "AMS5",
+            "R16",
+            "Cyril Bouriez vs. Alex Trinh",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "04:00 PM - 04:30 PM",
             "DXD17",
             "R16",
             "Charles Liu+Rosemary Ting[1] vs. L. Lam+A. Lin or A. Theva+S. K Maharaj",
@@ -1489,18 +1385,34 @@
             ""
         ],
         [
-            "04:30 PM - 05:00 PM",
-            "AMS5",
+            "04:00 PM - 04:30 PM",
+            "DXD19",
             "R16",
-            "Cyril Bouriez vs. Alex Trinh",
+            "B. Chen+M. Lin or A. E Kim+M. C Jamarolin vs. Y. Zhang+J. Li or G. Zhou+M. Xiong",
             "Match Not Started",
             ""
         ],
         [
-            "04:30 PM - 05:00 PM",
-            "AMS6",
+            "04:00 PM - 04:30 PM",
+            "DXD20",
             "R16",
-            "Marcus Zhu vs. Michael F Lin[3/4]",
+            "T. Ren+C. Huang or R. Ouyang+Y. Ivy Zhou vs. Michael Phannavong+Emily Lam",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "04:00 PM - 04:30 PM",
+            "DXD21",
+            "R16",
+            "A. Lee+M. Keophaseut or O. Wu+L. Ning vs. J. Wang+A. Eliana Yu or M. Leoveras Elma+N. Ronnes",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "04:00 PM - 04:30 PM",
+            "DXD22",
+            "R16",
+            "N. Ramesh+N. Yadav or N. Chen+S. Kim vs. M. Chen+L. Baltonado or C. Teo+T. Xu",
             "Match Not Started",
             ""
         ],
@@ -1522,38 +1434,6 @@
         ],
         [
             "04:30 PM - 05:00 PM",
-            "DXD19",
-            "R16",
-            "B. Chen+M. Lin or A. E Kim+M. C Jamarolin vs. Y. Zhang+J. Li or G. Zhou+M. Xiong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "04:30 PM - 05:00 PM",
-            "DXD20",
-            "R16",
-            "T. Ren+C. Huang or R. Ouyang+Y. Ivy Zhou vs. M. Phannavong+E. Lam or L. Lei-Chong+E. Fong",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "04:30 PM - 05:00 PM",
-            "DXD21",
-            "R16",
-            "A. Lee+M. Keophaseut or O. Wu+L. Ning vs. J. Wang+A. Eliana Yu or M. Leoveras Elma+N. Ronnes",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "04:30 PM - 05:00 PM",
-            "DXD22",
-            "R16",
-            "N. Ramesh+N. Yadav or N. Chen+S. Kim vs. M. Chen+L. Baltonado or C. Teo+T. Xu",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "04:30 PM - 05:00 PM",
             "DXD23",
             "R16",
             "E. Tran Wang+H. Leehan Wang or F. Salisi+S. Siopack vs. Thomas Wong+Evelyn Liu[5/8]",
@@ -1570,22 +1450,6 @@
         ],
         [
             "04:30 PM - 05:00 PM",
-            "BXD5",
-            "R16",
-            "Byron Li+Helen Wong vs. Johnjo Riguera+Eri Kitagawa",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "04:30 PM - 05:00 PM",
-            "BXD6",
-            "R16",
-            "Jeremy Ryan Leung+Claudia Xu vs. Kevin Junxian Lan+Ashley Yang[3/4]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "05:00 PM - 05:30 PM",
             "CDWS9",
             "QF",
             "Sridevi K Maharaj[1] vs. I. Chaurasia or N. Barua Schulze",
@@ -1593,7 +1457,15 @@
             ""
         ],
         [
-            "05:00 PM - 05:30 PM",
+            "04:30 PM - 05:00 PM",
+            "CDWS10",
+            "QF",
+            "Y. Xiao or N. Sharma vs. S. A Chun or S. Pandey",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "04:30 PM - 05:00 PM",
             "CDWS12",
             "QF",
             "M. Yan Gao or L. Sevilla vs. Maddie Xiong[2]",
@@ -1601,7 +1473,7 @@
             ""
         ],
         [
-            "05:00 PM - 05:30 PM",
+            "04:30 PM - 05:00 PM",
             "ABWS10",
             "QF",
             "Xin Huang[3/4] vs. S. Kapale or I. Rusli",
@@ -1609,10 +1481,34 @@
             ""
         ],
         [
-            "05:00 PM - 05:30 PM",
+            "04:30 PM - 05:00 PM",
             "ABWS11",
             "QF",
             "A. Huang or H. Muthusaravanan vs. Amanda Helen Ng[3/4]",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "04:30 PM - 05:00 PM",
+            "BXD9",
+            "QF",
+            "Sam Vuong+Belinda Tam[1] vs. E. Chin+K. Song or T. Lau+S. Shangguan",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "04:30 PM - 05:00 PM",
+            "BXD10",
+            "QF",
+            "W. Tang+A. Huang or B. Lee+S. Lee vs. Gumaro Diaz+Emily Yu",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "04:30 PM - 05:00 PM",
+            "BXD11",
+            "QF",
+            "Johnjo Riguera+Eri Kitagawa vs. J. Ryan Leung+C. Xu or K. Junxian Lan+A. Yang",
             "Match Not Started",
             ""
         ],
@@ -1626,17 +1522,9 @@
         ],
         [
             "05:00 PM - 05:30 PM",
-            "BXD9",
+            "AMS9",
             "QF",
-            "Sam Vuong+Belinda Tam[1] vs. E. Chin+K. Song or T. Lau+S. Shangguan",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "05:00 PM - 05:30 PM",
-            "BXD10",
-            "QF",
-            "W. Tang+A. Huang or B. Lee+S. Lee vs. Gumaro Diaz+Emily Yu",
+            "K. Chong or R. Kim Kuzma vs. J. Lee or B. Chiu",
             "Match Not Started",
             ""
         ],
@@ -1681,7 +1569,7 @@
             ""
         ],
         [
-            "05:30 PM - 06:00 PM",
+            "05:00 PM - 05:30 PM",
             "DMD57",
             "QF",
             "Winner #49  vs. Winner #50",
@@ -1689,7 +1577,7 @@
             ""
         ],
         [
-            "05:30 PM - 06:00 PM",
+            "05:00 PM - 05:30 PM",
             "DMD58",
             "QF",
             "Winner #51  vs. Winner #52",
@@ -1697,7 +1585,7 @@
             ""
         ],
         [
-            "05:30 PM - 06:00 PM",
+            "05:00 PM - 05:30 PM",
             "DMD59",
             "QF",
             "Winner #53  vs. Winner #54",
@@ -1705,7 +1593,7 @@
             ""
         ],
         [
-            "05:30 PM - 06:00 PM",
+            "05:00 PM - 05:30 PM",
             "DMD60",
             "QF",
             "Winner #55  vs. Winner #56",
@@ -1713,18 +1601,10 @@
             ""
         ],
         [
-            "05:30 PM - 06:00 PM",
-            "CDWS10",
-            "QF",
-            "Y. Xiao or N. Sharma vs. S. A Chun or S. Pandey",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "05:30 PM - 06:00 PM",
+            "05:00 PM - 05:30 PM",
             "CDWS11",
             "QF",
-            "A. Trinh or H. Li vs. Y. Ivy Zhou or L. Baltonado",
+            "Amanda Trinh vs. Y. Ivy Zhou or L. Baltonado",
             "Match Not Started",
             ""
         ],
@@ -1777,7 +1657,7 @@
             ""
         ],
         [
-            "06:00 PM - 06:30 PM",
+            "05:30 PM - 06:00 PM",
             "BMS25",
             "QF",
             "Winner #17  vs. Winner #18",
@@ -1785,7 +1665,7 @@
             ""
         ],
         [
-            "06:00 PM - 06:30 PM",
+            "05:30 PM - 06:00 PM",
             "BMS26",
             "QF",
             "Winner #19  vs. Winner #20",
@@ -1793,7 +1673,7 @@
             ""
         ],
         [
-            "06:00 PM - 06:30 PM",
+            "05:30 PM - 06:00 PM",
             "BMS27",
             "QF",
             "Winner #21  vs. Winner #22",
@@ -1801,7 +1681,7 @@
             ""
         ],
         [
-            "06:00 PM - 06:30 PM",
+            "05:30 PM - 06:00 PM",
             "BMS28",
             "QF",
             "Winner #23  vs. Winner #24",
@@ -1809,7 +1689,7 @@
             ""
         ],
         [
-            "06:00 PM - 06:30 PM",
+            "05:30 PM - 06:00 PM",
             "DMS57",
             "QF",
             "Winner #49  vs. Winner #50",
@@ -1817,7 +1697,7 @@
             ""
         ],
         [
-            "06:00 PM - 06:30 PM",
+            "05:30 PM - 06:00 PM",
             "DMS58",
             "QF",
             "Winner #51  vs. Winner #52",
@@ -1873,7 +1753,7 @@
             ""
         ],
         [
-            "06:30 PM - 07:00 PM",
+            "06:00 PM - 06:30 PM",
             "AXD9",
             "QF",
             "Bryce Kan+Bianca Tam[1] vs. Michael F Lin+Kristine Nicole Ngo",
@@ -1881,7 +1761,7 @@
             ""
         ],
         [
-            "06:30 PM - 07:00 PM",
+            "06:00 PM - 06:30 PM",
             "AXD10",
             "QF",
             "Neo Vasudeva+Amanda Helen Ng[3/4] vs. Brandon Lee+Savanna Lee",
@@ -1889,7 +1769,7 @@
             ""
         ],
         [
-            "06:30 PM - 07:00 PM",
+            "06:00 PM - 06:30 PM",
             "AXD12",
             "QF",
             "Gumaro Diaz+Emily Yu vs. Ray Ngan+Xin Huang[2]",
@@ -1897,15 +1777,15 @@
             ""
         ],
         [
-            "06:30 PM - 07:00 PM",
-            "AMS9",
+            "06:00 PM - 06:30 PM",
+            "AMS10",
             "QF",
-            "K. Chong or R. Kim Kuzma vs. J. Lee or B. Chiu",
+            "J. Lai or P. Chi vs. W. Tang or M. Rusli",
             "Match Not Started",
             ""
         ],
         [
-            "06:30 PM - 07:00 PM",
+            "06:00 PM - 06:30 PM",
             "DXD25",
             "QF",
             "Winner #17  vs. Winner #18",
@@ -1913,10 +1793,26 @@
             ""
         ],
         [
-            "06:30 PM - 07:00 PM",
+            "06:00 PM - 06:30 PM",
             "DXD26",
             "QF",
             "Winner #19  vs. Winner #20",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "06:30 PM - 07:00 PM",
+            "AMS11",
+            "QF",
+            "C. Bouriez or A. Trinh vs. Michael F Lin[3/4]",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "06:30 PM - 07:00 PM",
+            "AMS12",
+            "QF",
+            "S. Edward Brownfield or C. Ta vs. D. Wuu or N. Vasudeva",
             "Match Not Started",
             ""
         ],
@@ -1933,14 +1829,6 @@
             "DXD28",
             "QF",
             "Winner #23  vs. Winner #24",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "06:30 PM - 07:00 PM",
-            "BXD11",
-            "QF",
-            "B. Li+H. Wong or J. Riguera+E. Kitagawa vs. J. Ryan Leung+C. Xu or K. Junxian Lan+A. Yang",
             "Match Not Started",
             ""
         ],
@@ -1969,31 +1857,7 @@
             ""
         ],
         [
-            "07:00 PM - 07:30 PM",
-            "AMS10",
-            "QF",
-            "J. Lai or P. Chi vs. W. Tang or M. Rusli",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "07:00 PM - 07:30 PM",
-            "AMS11",
-            "QF",
-            "C. Bouriez or A. Trinh vs. M. Zhu or M. F Lin",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "07:00 PM - 07:30 PM",
-            "AMS12",
-            "QF",
-            "S. Edward Brownfield or C. Ta vs. D. Wuu or N. Vasudeva",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "07:00 PM - 07:30 PM",
+            "06:30 PM - 07:00 PM",
             "DMD62",
             "SF",
             "Winner #59  vs. Winner #60",
@@ -2001,7 +1865,7 @@
             ""
         ],
         [
-            "07:00 PM - 07:30 PM",
+            "06:30 PM - 07:00 PM",
             "CDWS13",
             "SF",
             "Winner #9  vs. Winner #10",
@@ -2009,7 +1873,7 @@
             ""
         ],
         [
-            "07:00 PM - 07:30 PM",
+            "06:30 PM - 07:00 PM",
             "CDWS14",
             "SF",
             "Winner #11  vs. Winner #12",
@@ -2017,7 +1881,7 @@
             ""
         ],
         [
-            "07:00 PM - 07:30 PM",
+            "06:30 PM - 07:00 PM",
             "CMS29",
             "SF",
             "Winner #25  vs. Winner #26",
@@ -2025,7 +1889,7 @@
             ""
         ],
         [
-            "07:00 PM - 07:30 PM",
+            "06:30 PM - 07:00 PM",
             "CMS30",
             "SF",
             "Winner #27  vs. Winner #28",
@@ -2037,6 +1901,14 @@
             "ABWS13",
             "SF",
             "N. Chi or K. Nicole Ngo vs. Winner #10",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "07:00 PM - 07:30 PM",
+            "ABWS14",
+            "SF",
+            "Winner #11  vs. K. Song or B. Tam",
             "Match Not Started",
             ""
         ],
@@ -2065,15 +1937,7 @@
             ""
         ],
         [
-            "07:30 PM - 08:00 PM",
-            "ABWS14",
-            "SF",
-            "Winner #11  vs. K. Song or B. Tam",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "07:30 PM - 08:00 PM",
+            "07:00 PM - 07:30 PM",
             "DMS62",
             "SF",
             "Winner #59  vs. Winner #60",
@@ -2081,7 +1945,7 @@
             ""
         ],
         [
-            "07:30 PM - 08:00 PM",
+            "07:00 PM - 07:30 PM",
             "CXD29",
             "SF",
             "Winner #25  vs. Winner #26",
@@ -2089,7 +1953,7 @@
             ""
         ],
         [
-            "07:30 PM - 08:00 PM",
+            "07:00 PM - 07:30 PM",
             "CXD30",
             "SF",
             "Winner #27  vs. Winner #28",
@@ -2097,7 +1961,7 @@
             ""
         ],
         [
-            "07:30 PM - 08:00 PM",
+            "07:00 PM - 07:30 PM",
             "AXD13",
             "SF",
             "B. Kan+B. Tam or M. F Lin+K. Nicole Ngo vs. N. Vasudeva+A. Helen Ng or B. Lee+S. Lee",
@@ -2105,7 +1969,7 @@
             ""
         ],
         [
-            "07:30 PM - 08:00 PM",
+            "07:00 PM - 07:30 PM",
             "AXD14",
             "SF",
             "Winner #11  vs. G. Diaz+E. Yu or R. Ngan+X. Huang",
@@ -2113,10 +1977,34 @@
             ""
         ],
         [
-            "07:30 PM - 08:00 PM",
+            "07:00 PM - 07:30 PM",
             "DXD29",
             "SF",
             "Winner #25  vs. Winner #26",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "07:00 PM - 07:30 PM",
+            "BXD13",
+            "SF",
+            "Winner #9  vs. Winner #10",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "07:30 PM - 08:00 PM",
+            "AMS13",
+            "SF",
+            "Winner #9  vs. Winner #10",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "07:30 PM - 08:00 PM",
+            "AMS14",
+            "SF",
+            "Winner #11  vs. Winner #12",
             "Match Not Started",
             ""
         ],
@@ -2125,14 +2013,6 @@
             "DXD30",
             "SF",
             "Winner #27  vs. Winner #28",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "07:30 PM - 08:00 PM",
-            "BXD13",
-            "SF",
-            "Winner #9  vs. Winner #10",
             "Match Not Started",
             ""
         ],
@@ -2153,23 +2033,7 @@
             ""
         ],
         [
-            "08:00 PM - 08:30 PM",
-            "AMS13",
-            "SF",
-            "Winner #9  vs. Winner #10",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:00 PM - 08:30 PM",
-            "AMS14",
-            "SF",
-            "Winner #11  vs. Winner #12",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:00 PM - 08:30 PM",
+            "07:30 PM - 08:00 PM",
             "DMD63",
             "Final",
             "Winner #61  vs. Winner #62",
@@ -2177,7 +2041,7 @@
             ""
         ],
         [
-            "08:00 PM - 08:30 PM",
+            "07:30 PM - 08:00 PM",
             "CDWS15",
             "Final",
             "Winner #13  vs. Winner #14",
@@ -2185,10 +2049,18 @@
             ""
         ],
         [
-            "08:00 PM - 08:30 PM",
+            "07:30 PM - 08:00 PM",
             "CMS31",
             "Final",
             "Winner #29  vs. Winner #30",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "08:00 PM - 08:30 PM",
+            "ABWS15",
+            "Final",
+            "Winner #13  vs. Winner #14",
             "Match Not Started",
             ""
         ],
@@ -2201,15 +2073,7 @@
             ""
         ],
         [
-            "08:30 PM - 09:00 PM",
-            "ABWS15",
-            "Final",
-            "Winner #13  vs. Winner #14",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 PM - 09:00 PM",
+            "08:00 PM - 08:30 PM",
             "DMS63",
             "Final",
             "Winner #61  vs. Winner #62",
@@ -2217,7 +2081,7 @@
             ""
         ],
         [
-            "08:30 PM - 09:00 PM",
+            "08:00 PM - 08:30 PM",
             "CXD31",
             "Final",
             "Winner #29  vs. Winner #30",
@@ -2225,8 +2089,16 @@
             ""
         ],
         [
-            "08:30 PM - 09:00 PM",
+            "08:00 PM - 08:30 PM",
             "AXD15",
+            "Final",
+            "Winner #13  vs. Winner #14",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "08:30 PM - 09:00 PM",
+            "AMS15",
             "Final",
             "Winner #13  vs. Winner #14",
             "Match Not Started",
@@ -2247,25 +2119,9 @@
             "Winner #13  vs. Winner #14",
             "Match Not Started",
             ""
-        ],
-        [
-            "09:00 PM - 09:30 PM",
-            "AMS15",
-            "Final",
-            "Winner #13  vs. Winner #14",
-            "Match Not Started",
-            ""
         ]
     ],
     "sunday": [
-        [
-            "08:30 AM - 09:00 AM",
-            "DWD8",
-            "R32",
-            "Amanda Trinh+Aiko Eliana Yu vs. Sophia Siopack+Kaylee Yang",
-            "Match Not Started",
-            ""
-        ],
         [
             "08:30 AM - 09:00 AM",
             "DWD9",
@@ -2300,14 +2156,6 @@
         ],
         [
             "08:30 AM - 09:00 AM",
-            "BMD9",
-            "R32",
-            "Rico Kim Kuzma+Jose Ramirez vs. Minh Nguyen Vo+Jeffrey Xu",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
             "BMD11",
             "R32",
             "Brandon Lee+Jack Yin vs. Ryan Ladd kintana Luna+Arnab Pramanik",
@@ -2319,14 +2167,6 @@
             "BMD13",
             "R32",
             "Brad Chiu+Guangqi Zhu vs. Sydney Samol+Jerry Vang",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "08:30 AM - 09:00 AM",
-            "BMD15",
-            "R32",
-            "Richard Wang+Arun Yadavalli vs. Robert Chang+Ryan Phan",
             "Match Not Started",
             ""
         ],
@@ -2355,7 +2195,7 @@
             ""
         ],
         [
-            "09:00 AM - 09:30 AM",
+            "08:30 AM - 09:00 AM",
             "CWD4",
             "R16",
             "Evelyn Tan+Sabrina Yeh vs. Linda Li+Minger Lin",
@@ -2363,7 +2203,7 @@
             ""
         ],
         [
-            "09:00 AM - 09:30 AM",
+            "08:30 AM - 09:00 AM",
             "CWD5",
             "R16",
             "Leanna Baltonado+Liliana Sevilla vs. Mae C Jamarolin+Gauri Mutha",
@@ -2404,9 +2244,9 @@
         ],
         [
             "09:00 AM - 09:30 AM",
-            "DWD22",
+            "DWD20",
             "R16",
-            "Chuhan Huang+Yuqing Xiao vs. Arielle Fong+Elise Fong[3/4]",
+            "Sophie Li+Jessica Liang vs. A. Trinh+A. Eliana Yu or S. Siopack+K. Yang",
             "Match Not Started",
             ""
         ],
@@ -2436,6 +2276,14 @@
         ],
         [
             "09:00 AM - 09:30 AM",
+            "BMD24",
+            "R16",
+            "R. Wang+A. Yadavalli or R. Chang+R. Phan vs. Sean Chen+Josh Serrano[2]",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "09:00 AM - 09:30 AM",
             "AMD3",
             "R16",
             "Bryce Kan+Neo Vasudeva[3/4] vs. Edison Ma+Domenick Wuu",
@@ -2447,14 +2295,6 @@
             "AMD4",
             "R16",
             "Brad Chiu+Guangqi Zhu vs. Cyril Bouriez+Marc Rusli",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "09:30 AM - 10:00 AM",
-            "DWD20",
-            "R16",
-            "Sophie Li+Jessica Liang vs. A. Trinh+A. Eliana Yu or S. Siopack+K. Yang",
             "Match Not Started",
             ""
         ],
@@ -2494,7 +2334,7 @@
             "09:30 AM - 10:00 AM",
             "BMD21",
             "R16",
-            "R. Kim Kuzma+J. Ramirez or M. Vo+J. Xu vs. Alex Law+Kevin Zhou[5/8]",
+            "Rico Kim Kuzma+Jose Ramirez vs. Alex Law+Kevin Zhou[5/8]",
             "Match Not Started",
             ""
         ],
@@ -2516,14 +2356,6 @@
         ],
         [
             "09:30 AM - 10:00 AM",
-            "BMD24",
-            "R16",
-            "R. Wang+A. Yadavalli or R. Chang+R. Phan vs. Sean Chen+Josh Serrano[2]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "09:30 AM - 10:00 AM",
             "AMD5",
             "R16",
             "Gia Hin+Cuong Ta vs. Sean Chen+Josh Serrano",
@@ -2540,6 +2372,14 @@
         ],
         [
             "09:30 AM - 10:00 AM",
+            "ABWD2",
+            "QF",
+            "Steffi Ling+Kristine Nicole Ngo[3/4] vs. Kelly Christina Yau Barria+Emily Yu",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "09:30 AM - 10:00 AM",
             "CWD9",
             "QF",
             "Ann Lin+Shanlai Shangguan[1] vs. A. Fang+N. Feng or S. Kapale+S. K Maharaj",
@@ -2547,10 +2387,10 @@
             ""
         ],
         [
-            "10:00 AM - 10:30 AM",
-            "ABWD2",
+            "09:30 AM - 10:00 AM",
+            "CWD10",
             "QF",
-            "Steffi Ling+Kristine Nicole Ngo[3/4] vs. Kelly Christina Yau Barria+Emily Yu",
+            "Chuhan Huang+Yuqing Xiao vs. E. Tan+S. Yeh or L. Li+M. Lin",
             "Match Not Started",
             ""
         ],
@@ -2567,14 +2407,6 @@
             "AMD12",
             "QF",
             "V. Sinha+W. Tang or B. Lee+J. Yin vs. Haoming Chen+Ronald Koko[2]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:00 AM - 10:30 AM",
-            "CWD10",
-            "QF",
-            "Chuhan Huang+Yuqing Xiao vs. E. Tan+S. Yeh or L. Li+M. Lin",
             "Match Not Started",
             ""
         ],
@@ -2604,14 +2436,6 @@
         ],
         [
             "10:00 AM - 10:30 AM",
-            "DWD28",
-            "QF",
-            "L. Baltonado+L. Sevilla or E. Liu+N. Sharma vs. S. Kapale+S. K Maharaj or S. Chinthalapati+L. Ning",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:30 AM - 11:00 AM",
             "DWD26",
             "QF",
             "E. Tan+S. Yeh or E. Lam+V. Tan vs. Winner #20",
@@ -2619,10 +2443,26 @@
             ""
         ],
         [
+            "10:00 AM - 10:30 AM",
+            "DWD28",
+            "QF",
+            "L. Baltonado+L. Sevilla or E. Liu+N. Sharma vs. S. Kapale+S. K Maharaj or S. Chinthalapati+L. Ning",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "10:00 AM - 10:30 AM",
+            "AMD10",
+            "QF",
+            "B. Kan+N. Vasudeva or E. Ma+D. Wuu vs. B. Chiu+G. Zhu or C. Bouriez+M. Rusli",
+            "Match Not Started",
+            ""
+        ],
+        [
             "10:30 AM - 11:00 AM",
             "DWD27",
             "QF",
-            "Winner #21  vs. C. Huang+Y. Xiao or A. Fong+E. Fong",
+            "Winner #21  vs. Chuhan Huang+Yuqing Xiao",
             "Match Not Started",
             ""
         ],
@@ -2646,7 +2486,7 @@
             "10:30 AM - 11:00 AM",
             "BMD27",
             "QF",
-            "Winner #21  vs. Winner #22",
+            "R. Kim Kuzma+J. Ramirez or A. Law+K. Zhou vs. Winner #22",
             "Match Not Started",
             ""
         ],
@@ -2660,14 +2500,6 @@
         ],
         [
             "10:30 AM - 11:00 AM",
-            "AMD10",
-            "QF",
-            "B. Kan+N. Vasudeva or E. Ma+D. Wuu vs. B. Chiu+G. Zhu or C. Bouriez+M. Rusli",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:30 AM - 11:00 AM",
             "AMD11",
             "QF",
             "G. Hin+C. Ta or S. Chen+J. Serrano vs. R. Kim Kuzma+J. Ramirez or J. Vu+S. Yang",
@@ -2675,10 +2507,18 @@
             ""
         ],
         [
-            "11:00 AM - 11:30 AM",
+            "10:30 AM - 11:00 AM",
             "ABWD5",
             "SF",
             "Xin Huang+Bianca Tam[1] vs. S. Ling+K. Nicole Ngo or K. Christina Yau Barria+E. Yu",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "10:30 AM - 11:00 AM",
+            "CWD13",
+            "SF",
+            "Winner #9  vs. Winner #10",
             "Match Not Started",
             ""
         ],
@@ -2692,7 +2532,15 @@
         ],
         [
             "11:00 AM - 11:30 AM",
-            "CWD13",
+            "DWD29",
+            "SF",
+            "Winner #25  vs. Winner #26",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "11:00 AM - 11:30 AM",
+            "AMD13",
             "SF",
             "Winner #9  vs. Winner #10",
             "Match Not Started",
@@ -2703,14 +2551,6 @@
             "CWD14",
             "SF",
             "Winner #11  vs. Winner #12",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "11:30 AM - 12:00 noon",
-            "DWD29",
-            "SF",
-            "Winner #25  vs. Winner #26",
             "Match Not Started",
             ""
         ],
@@ -2735,14 +2575,6 @@
             "BMD30",
             "SF",
             "Winner #27  vs. Winner #28",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "11:30 AM - 12:00 noon",
-            "AMD13",
-            "SF",
-            "Winner #9  vs. Winner #10",
             "Match Not Started",
             ""
         ],
