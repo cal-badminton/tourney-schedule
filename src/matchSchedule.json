@@ -722,25 +722,9 @@
         ],
         [
             "12:30 PM - 01:00 PM",
-            "CXD2",
-            "R32",
-            "Jeremy Ryan Leung+Claudia Xu vs. Thomas Wong+Evelyn Liu",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "12:30 PM - 01:00 PM",
             "CXD3",
             "R32",
             "Tony Lau+Shanlai Shangguan[5/8] vs. Alex E Kim+Mae C Jamarolin",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "12:30 PM - 01:00 PM",
-            "CXD4",
-            "R32",
-            "Aidan Lee+Mylene Keophaseut vs. Pranav Vijay Kumar+Collette Shu",
             "Match Not Started",
             ""
         ],
@@ -997,14 +981,6 @@
             "BXD5",
             "R16",
             "Gumaro Diaz+Emily Yu vs. Krishnaraj Singaram+Shriya Sarraf",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "01:30 PM - 02:00 PM",
-            "BXD7",
-            "R16",
-            "Tony Lau+Shanlai Shangguan vs. Jeremy Ryan Leung+Claudia Xu",
             "Match Not Started",
             ""
         ],
@@ -1348,7 +1324,7 @@
             "03:30 PM - 04:00 PM",
             "CXD17",
             "R16",
-            "Kevin Junxian Lan+Ashley Yang[1] vs. J. Ryan Leung+C. Xu or T. Wong+E. Liu",
+            "Kevin Junxian Lan+Ashley Yang[1] vs. Thomas Wong+Evelyn Liu",
             "Match Not Started",
             ""
         ],
@@ -1356,7 +1332,7 @@
             "03:30 PM - 04:00 PM",
             "CXD18",
             "R16",
-            "T. Lau+S. Shangguan or A. E Kim+M. C Jamarolin vs. A. Lee+M. Keophaseut or P. Vijay Kumar+C. Shu",
+            "T. Lau+S. Shangguan or A. E Kim+M. C Jamarolin vs. Aidan Lee+Mylene Keophaseut",
             "Match Not Started",
             ""
         ],
@@ -1604,7 +1580,7 @@
             "05:00 PM - 05:30 PM",
             "BXD12",
             "QF",
-            "T. Lau+S. Shangguan or J. Ryan Leung+C. Xu vs. Josh Serrano+Steffi Ling[2]",
+            "Tony Lau+Shanlai Shangguan vs. Josh Serrano+Steffi Ling[2]",
             "Match Not Started",
             ""
         ],
@@ -1796,7 +1772,7 @@
             "06:00 PM - 06:30 PM",
             "CXD25",
             "QF",
-            "Winner #17  vs. Winner #18",
+            "K. Junxian Lan+A. Yang or T. Wong+E. Liu vs. Winner #18",
             "Match Not Started",
             ""
         ],
@@ -2092,7 +2068,7 @@
             "07:30 PM - 08:00 PM",
             "BXD14",
             "SF",
-            "Winner #11  vs. Winner #12",
+            "Winner #11  vs. T. Lau+S. Shangguan or J. Serrano+S. Ling",
             "Match Not Started",
             ""
         ],
@@ -2356,14 +2332,6 @@
         ],
         [
             "09:00 AM - 09:30 AM",
-            "BMD17",
-            "R16",
-            "Johnny Vu+Steven Yang[1] vs. Jeremy Ryan Leung+Pranav Vijay Kumar",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "09:00 AM - 09:30 AM",
             "BMD24",
             "R16",
             "Brad Chiu+Guangqi Zhu vs. Sean Chen+Josh Serrano[2]",
@@ -2455,14 +2423,6 @@
             "AMD6",
             "R16",
             "Rico Kim Kuzma+Jose Ramirez vs. Johnny Vu+Steven Yang[3/4]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "09:30 AM - 10:00 AM",
-            "ABWD2",
-            "QF",
-            "Georgina C+Fiona Lai[3/4] vs. Ann Lin+Shanlai Shangguan",
             "Match Not Started",
             ""
         ],
@@ -2566,7 +2526,7 @@
             "10:30 AM - 11:00 AM",
             "BMD25",
             "QF",
-            "J. Vu+S. Yang or J. Ryan Leung+P. Vijay Kumar vs. Winner #18",
+            "Johnny Vu+Steven Yang[1] vs. Winner #18",
             "Match Not Started",
             ""
         ],
@@ -2606,7 +2566,7 @@
             "10:30 AM - 11:00 AM",
             "ABWD5",
             "SF",
-            "Xin Huang+Bianca Tam[1] vs. G. C+F. Lai or A. Lin+S. Shangguan",
+            "Xin Huang+Bianca Tam[1] vs. Georgina C+Fiona Lai[3/4]",
             "Match Not Started",
             ""
         ],
@@ -2694,7 +2654,7 @@
             "12:00 noon - 12:30 PM",
             "ABWD7",
             "Final",
-            "Winner #5  vs. Winner #6",
+            "X. Huang+B. Tam or G. C+F. Lai vs. Winner #6",
             "Match Not Started",
             ""
         ],
