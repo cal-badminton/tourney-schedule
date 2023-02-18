@@ -426,14 +426,6 @@
         ],
         [
             "10:30 AM - 11:00 AM",
-            "DMD48",
-            "R32",
-            "Matthew Leoveras Elma+Kevin Yu vs. Georgina C+Fiona Lai[2]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:30 AM - 11:00 AM",
             "CMS2",
             "R32",
             "Anthony Lin vs. Kyle Alexander Page Mabasa",
@@ -898,14 +890,6 @@
         ],
         [
             "01:30 PM - 02:00 PM",
-            "DXD15",
-            "R32",
-            "Gary Zhou+Maddie Xiong vs. Eric Tran Wang+Hannah Leehan Wang",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "01:30 PM - 02:00 PM",
             "CDWS2",
             "R16",
             "Ishita Chaurasia vs. Nasreen Barua Schulze",
@@ -1108,7 +1092,7 @@
             "02:30 PM - 03:00 PM",
             "DMD56",
             "R16",
-            "Winner #47  vs. M. Leoveras Elma+K. Yu or G. C+F. Lai",
+            "Winner #47  vs. Matthew Leoveras Elma+Kevin Yu",
             "Match Not Started",
             ""
         ],
@@ -1492,7 +1476,7 @@
             "04:30 PM - 05:00 PM",
             "DXD24",
             "R16",
-            "G. Zhou+M. Xiong or E. Tran Wang+H. Leehan Wang vs. Kevin Tong+Sabrina Yeh[2]",
+            "Eric Tran Wang+Hannah Leehan Wang vs. Kevin Tong+Sabrina Yeh[2]",
             "Match Not Started",
             ""
         ],
@@ -1509,14 +1493,6 @@
             "CDWS10",
             "QF",
             "Leanna Baltonado[3/4] vs. S. Pandey or Y. Ivy Zhou",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "04:30 PM - 05:00 PM",
-            "CDWS12",
-            "QF",
-            "S. A Chun or M. Yan Gao vs. Maddie Xiong[2]",
             "Match Not Started",
             ""
         ],
@@ -1876,7 +1852,7 @@
             "06:30 PM - 07:00 PM",
             "DXD28",
             "QF",
-            "Winner #23  vs. Winner #24",
+            "Winner #23  vs. E. Tran Wang+H. Leehan Wang or K. Tong+S. Yeh",
             "Match Not Started",
             ""
         ],
@@ -2428,6 +2404,14 @@
         ],
         [
             "09:30 AM - 10:00 AM",
+            "AMD9",
+            "QF",
+            "Kelvin Chong+Michael F Lin[1] vs. O. Staten+A. Trinh or N. Ho+H. Lillemark",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "09:30 AM - 10:00 AM",
             "CWD9",
             "QF",
             "Ann Lin+Shanlai Shangguan[1] vs. S. Kapale+S. K Maharaj or S. Siopack+K. Yang",
@@ -2439,22 +2423,6 @@
             "CWD10",
             "QF",
             "Chuhan Huang+Yuqing Xiao vs. E. Ng+A. Siu or A. Fang+N. Feng",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:00 AM - 10:30 AM",
-            "ABWD3",
-            "QF",
-            "Kelly Christina Yau Barria+Emily Yu vs. Steffi Ling+Kristine Nicole Ngo[3/4]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:00 AM - 10:30 AM",
-            "AMD9",
-            "QF",
-            "Kelvin Chong+Michael F Lin[1] vs. O. Staten+A. Trinh or N. Ho+H. Lillemark",
             "Match Not Started",
             ""
         ],
@@ -2515,6 +2483,14 @@
             ""
         ],
         [
+            "10:00 AM - 10:30 AM",
+            "ABWD1",
+            "RR1",
+            "Steffi Ling+Kristine Nicole Ngo[3/4] vs. Kelly Christina Yau Barria+Emily Yu",
+            "Match Not Started",
+            ""
+        ],
+        [
             "10:30 AM - 11:00 AM",
             "DWD27",
             "QF",
@@ -2564,25 +2540,9 @@
         ],
         [
             "10:30 AM - 11:00 AM",
-            "ABWD5",
-            "SF",
-            "Xin Huang+Bianca Tam[1] vs. Georgina C+Fiona Lai[3/4]",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "10:30 AM - 11:00 AM",
             "CWD13",
             "SF",
             "Winner #9  vs. Winner #10",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "11:00 AM - 11:30 AM",
-            "ABWD6",
-            "SF",
-            "K. Christina Yau Barria+E. Yu or S. Ling+K. Nicole Ngo vs. Ashley Huang+Amanda Helen Ng[2]",
             "Match Not Started",
             ""
         ],
@@ -2607,6 +2567,14 @@
             "CWD14",
             "SF",
             "Winner #11  vs. Winner #12",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "11:00 AM - 11:30 AM",
+            "ABWD3",
+            "RR2",
+            "Xin Huang+Bianca Tam[1] vs. Ashley Huang+Amanda Helen Ng[2]",
             "Match Not Started",
             ""
         ],
@@ -2652,9 +2620,9 @@
         ],
         [
             "12:00 noon - 12:30 PM",
-            "ABWD7",
-            "Final",
-            "X. Huang+B. Tam or G. C+F. Lai vs. Winner #6",
+            "ABWD5",
+            "RR3",
+            "Xin Huang+Bianca Tam[1] vs. Steffi Ling+Kristine Nicole Ngo[3/4]",
             "Match Not Started",
             ""
         ],
