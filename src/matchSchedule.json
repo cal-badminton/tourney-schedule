@@ -738,14 +738,6 @@
         ],
         [
             "12:30 PM - 01:00 PM",
-            "CXD8",
-            "R32",
-            "Paul Lin+Kaylee Yang vs. Eric Tran Wang+Hannah Leehan Wang",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "12:30 PM - 01:00 PM",
             "CXD9",
             "R32",
             "Chingsong Teo+Twiness Xu vs. Randy Ouyang+Yuanqi Ivy Zhou",
@@ -837,14 +829,6 @@
             "DXD8",
             "R32",
             "Alex E Kim+Mae C Jamarolin vs. Michael Phannavong+Emily Lam",
-            "Match Not Started",
-            ""
-        ],
-        [
-            "01:00 PM - 01:30 PM",
-            "DXD9",
-            "R32",
-            "Paul Lin+Kaylee Yang vs. Zhaohua J Zhang+Angelina Wang",
             "Match Not Started",
             ""
         ],
@@ -1332,7 +1316,7 @@
             "03:30 PM - 04:00 PM",
             "CXD20",
             "R16",
-            "C. Liu+R. Ting or B. Chen+M. Lin vs. P. Lin+K. Yang or E. Tran Wang+H. Leehan Wang",
+            "C. Liu+R. Ting or B. Chen+M. Lin vs. Eric Tran Wang+Hannah Leehan Wang",
             "Match Not Started",
             ""
         ],
@@ -1436,7 +1420,7 @@
             "04:00 PM - 04:30 PM",
             "DXD21",
             "R16",
-            "P. Lin+K. Yang or Z. J Zhang+A. Wang vs. N. Chen+S. Kim or M. Leoveras Elma+N. Ronnes",
+            "Zhaohua J Zhang+Angelina Wang vs. N. Chen+S. Kim or M. Leoveras Elma+N. Ronnes",
             "Match Not Started",
             ""
         ],
@@ -2222,7 +2206,7 @@
             "08:30 AM - 09:00 AM",
             "CWD2",
             "R16",
-            "Sanika Kapale+Sridevi K Maharaj vs. Sophia Siopack+Kaylee Yang",
+            "Sanika Kapale+Sridevi K Maharaj vs. Sophia Siopack+Rosemary Ting",
             "Match Not Started",
             ""
         ],
@@ -2254,7 +2238,7 @@
             "09:00 AM - 09:30 AM",
             "DWD17",
             "R16",
-            "Mai Dinh+Tracy Tonnu[1] vs. Sophia Siopack+Kaylee Yang",
+            "Mai Dinh+Tracy Tonnu[1] vs. Sophia Siopack+Rosemary Ting",
             "Match Not Started",
             ""
         ],
@@ -2414,7 +2398,7 @@
             "09:30 AM - 10:00 AM",
             "CWD9",
             "QF",
-            "Ann Lin+Shanlai Shangguan[1] vs. S. Kapale+S. K Maharaj or S. Siopack+K. Yang",
+            "Ann Lin+Shanlai Shangguan[1] vs. S. Kapale+S. K Maharaj or S. Siopack+R. Ting",
             "Match Not Started",
             ""
         ],
@@ -2454,7 +2438,7 @@
             "10:00 AM - 10:30 AM",
             "DWD25",
             "QF",
-            "M. Dinh+T. Tonnu or S. Siopack+K. Yang vs. S. Li+J. Liang or A. Trinh+A. Eliana Yu",
+            "M. Dinh+T. Tonnu or S. Siopack+R. Ting vs. S. Li+J. Liang or A. Trinh+A. Eliana Yu",
             "Match Not Started",
             ""
         ],
@@ -2486,7 +2470,15 @@
             "10:00 AM - 10:30 AM",
             "ABWD1",
             "RR1",
-            "Steffi Ling+Kristine Nicole Ngo[3/4] vs. Kelly Christina Yau Barria+Emily Yu",
+            "Ashley Huang+Amanda Helen Ng[2] vs. Kelly Christina Yau Barria+Emily Yu[3/4]",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "10:00 AM - 10:30 AM",
+            "ABWD2",
+            "RR1",
+            "Xin Huang+Bianca Tam[1] vs. Steffi Ling+Kristine Nicole Ngo[3/4]",
             "Match Not Started",
             ""
         ],
@@ -2579,6 +2571,14 @@
             ""
         ],
         [
+            "11:00 AM - 11:30 AM",
+            "ABWD4",
+            "RR2",
+            "Kelly Christina Yau Barria+Emily Yu[3/4] vs. Steffi Ling+Kristine Nicole Ngo[3/4]",
+            "Match Not Started",
+            ""
+        ],
+        [
             "11:30 AM - 12:00 noon",
             "DWD30",
             "SF",
@@ -2622,7 +2622,15 @@
             "12:00 noon - 12:30 PM",
             "ABWD5",
             "RR3",
-            "Xin Huang+Bianca Tam[1] vs. Steffi Ling+Kristine Nicole Ngo[3/4]",
+            "Xin Huang+Bianca Tam[1] vs. Kelly Christina Yau Barria+Emily Yu[3/4]",
+            "Match Not Started",
+            ""
+        ],
+        [
+            "12:00 noon - 12:30 PM",
+            "ABWD6",
+            "RR3",
+            "Ashley Huang+Amanda Helen Ng[2] vs. Steffi Ling+Kristine Nicole Ngo[3/4]",
             "Match Not Started",
             ""
         ],
